@@ -1,0 +1,85 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+/**
+ * Class will use invertedIndexes built on threads and add them to a global
+ * multithreadedinverted of type InvertedIndex
+ * 
+ */
+public class MultiThreadedInvertedIndex extends InvertedIndex {
+	public static final Logger logger = LogManager.getLogger();
+	private final MultiReaderLock queryLock;
+
+	/**
+	 * Constructor
+	 */
+	public MultiThreadedInvertedIndex() {
+		super();
+		queryLock = new MultiReaderLock();
+
+	}
+
+	/**
+	 * Safely adds an element to the list and then calls
+	 * {@link Collections#sort(java.util.List)} on the list to maintain the
+	 * sorted order. Also wakes up any threads waiting for a non-empty list.
+	 * 
+	 * @param element
+	 *            - element to add to the list
+	 */
+	@Override
+	public void add(String word, String path, int position) {
+		logger.log(Level.DEBUG, "Added {} to the list.");
+		queryLock.lockWrite();
+		super.add(word, path, position);
+		queryLock.unlockWrite();
+	}
+
+	/**
+	 * Adds everything from a local invertedIndex to a global invertedIndex
+	 * structure.
+	 */
+	@Override
+	public void addAll(InvertedIndex ii) {
+		queryLock.lockWrite();
+		super.addAll(ii);
+		queryLock.unlockWrite();
+	}
+
+	/**
+	 * Outputs the results of the global InvertedIndex data structure.
+	 */
+	@Override
+	public void output(String resultFile) {
+		queryLock.lockRead();
+		super.output(resultFile);
+		queryLock.unlockRead();
+	}
+
+	/**
+	 * Goes through a list of querywords and searches where words are found in
+	 * the InvertedIndex data structure.
+	 */
+	@Override
+	public ArrayList<SearchResult> search(List<String> QueryWords) {
+		queryLock.lockRead();
+		ArrayList<SearchResult> qw = new ArrayList<SearchResult>();
+		qw = super.search(QueryWords);
+		queryLock.unlockRead();
+		return qw;
+
+	}
+	
+	public ArrayList<SearchResult> searchlister(List<String> QueryWords) {
+		ArrayList<SearchResult> qw = new ArrayList<SearchResult>();
+		qw = super.search(QueryWords);
+		//System.out.println(qw.get(0));
+		return qw;
+
+	}
+}

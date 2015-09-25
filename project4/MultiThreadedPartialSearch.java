@@ -1,0 +1,190 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.nio.charset.Charset;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
+import java.util.List;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+public class MultiThreadedPartialSearch {
+	private static final Logger logger = LogManager.getLogger();
+	private final WorkQueue workers;
+	private int pending;
+	private final MultiThreadedInvertedIndex multiindex;
+	private final MultiReaderLock queryLock;
+	private final LinkedHashMap<String, ArrayList<SearchResult>> querysearchMap;
+
+	/**
+	 * Class will use SearchThreads in order to find search results for each
+	 * search word provided from file and than, print out each search result to
+	 * the user.
+	 * 
+	 * @param multiindex
+	 * @param workers
+	 */
+	public MultiThreadedPartialSearch(MultiThreadedInvertedIndex multiindex,
+			WorkQueue workers) {
+		this.multiindex = multiindex;
+		this.workers = workers;
+		pending = 0;
+		this.querysearchMap = new LinkedHashMap<>();
+		queryLock = new MultiReaderLock();
+	}
+
+	/**
+	 * Helper method, that helps a thread wait until all of the current work is
+	 * done. This is useful for resetting the counters or shutting down the work
+	 * queue.
+	 */
+	public synchronized void finish() {
+		try {
+			while (pending > 0) {
+				logger.debug("Waiting until finished");
+				this.wait();
+			}
+		} catch (InterruptedException e) {
+			logger.debug("Finish interrupted", e);
+		}
+	}
+
+	/**
+	 * Will shutdown the work queue after all the current pending work is
+	 * finished. Necessary to prevent our code from running forever in the
+	 * background.
+	 */
+	public synchronized void shutdown() {
+		logger.debug("Shutting down");
+		finish();
+		workers.shutdown();
+	}
+
+	/**
+	 * Takes in a multithreaded object and a filename from which, each line is
+	 * parsed and and a new SearchMinion is made for it.
+	 * 
+	 * @param directory
+	 * @throws IOException
+	 */
+	public void  (MultiThreadedInvertedIndex multiindex,
+			String resultsfilename) throws IOException {
+
+		try (BufferedReader br = Files.newBufferedReader(
+				Paths.get(resultsfilename), Charset.forName("UTF-8"))) {
+			String line;
+			while ((line = br.readLine()) != null) {
+				queryLock.lockWrite();
+				querysearchMap.put(line, null);
+				queryLock.unlockWrite();
+				workers.execute(new SearchMinion(line));
+			}
+		}
+	}
+
+	/**
+	 * Handles per-queryword lookup.
+	 */
+	private class SearchMinion implements Runnable {
+		String searchword;
+
+		public SearchMinion(String searchword) {
+			logger.debug("Minion created for searchword {}", searchword);
+			this.searchword = searchword;
+			incrementPending();
+		}
+
+		public void run() {
+			try {
+				multiBuildIndexes(multiindex, searchword);
+			} catch (IOException e) {
+				System.out.println("Bad searchword " + searchword);
+			}
+			decrementPending();
+		}
+	}
+
+	/**
+	 * Indicates that we now have additional "pending" work to wait for. We need
+	 * this since we can no longer call join() on the threads. (The threads keep
+	 * running forever in the background.)
+	 * 
+	 * We made this a synchronized method in the outer class, since locking on
+	 * the "this" object within an inner class does not work.
+	 */
+	private synchronized void incrementPending() {
+		pending++;
+		logger.debug("Pendingpartial is incremented {}", pending);
+	}
+
+	/**
+	 * Indicates that we now have one less "pending" work, and will notify any
+	 * waiting threads if we no longer have any more pending work left.
+	 */
+	private synchronized void decrementPending() {
+		pending--;
+		logger.debug("Pendingpartial is decremented {}", pending);
+
+		if (pending <= 0) {
+			this.notifyAll();
+		}
+	}
+
+	/**
+	 * Helper method will use locks in order to update and manage the
+	 * querysearchMap object.
+	 * 
+	 * @param multiindex
+	 * @param querywordline
+	 * @throws IOException
+	 */
+	public void multiBuildIndexes(MultiThreadedInvertedIndex multiindex,
+			String querywordline) throws IOException {
+		logger.debug("1beforeInvertedIndex", multiindex);
+		ArrayList<SearchResult> qw = new ArrayList<SearchResult>();
+		List<String> myname;
+		myname = WordParser.parseText(querywordline);
+		qw = multiindex.search(myname);
+		queryLock.lockWrite();
+		this.querysearchMap.put(querywordline, qw);
+		queryLock.unlockWrite();
+		logger.debug("1afterInvertedIndex", multiindex);
+	}
+
+	/**
+	 * Will take in a filename to output the search results.
+	 * 
+	 * @param filename
+	 * @return
+	 */
+	public String searchoutput(String filename) {
+		queryLock.lockRead();
+		Path newFile = Paths.get(filename);
+		try (BufferedWriter writer = Files.newBufferedWriter(newFile,
+				Charset.forName("UTF-8"))) {
+			for (String word : querysearchMap.keySet()) {
+				writer.append(word);
+				writer.newLine();
+				for (SearchResult qq : querysearchMap.get(word)) {
+					String str = qq.toString();
+					writer.append(str);
+					writer.newLine();
+				}
+				writer.newLine();
+
+			}
+			writer.flush();
+			return filename;
+
+		} catch (IOException e) {
+			System.out.println("Bad file   " + filename);
+		}
+		queryLock.unlockRead();
+		return filename;
+
+	}
+}

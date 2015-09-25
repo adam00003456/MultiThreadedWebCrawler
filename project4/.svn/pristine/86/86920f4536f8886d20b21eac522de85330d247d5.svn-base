@@ -1,0 +1,1554 @@
+a
+"/home/public/cs212/input/index/gutenberg/4300.txt", 27226, 17
+"/home/public/cs212/input/index/gutenberg/2701.txt", 24265, 21
+"/home/public/cs212/input/index/gutenberg/98.txt", 16096, 6
+"/home/public/cs212/input/index/gutenberg/1322.txt", 14116, 19
+"/home/public/cs212/input/index/gutenberg/1342.txt", 13969, 7
+"/home/public/cs212/input/index/gutenberg/1661.txt", 11775, 5
+"/home/public/cs212/input/index/gutenberg/11.txt", 3772, 4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 3171, 15
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 2427, 16
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1665, 24
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1204, 13
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1061, 28
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1003, 13
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 384, 4
+"/home/public/cs212/input/index/simple/symbols.txt", 9, 1
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+b
+"/home/public/cs212/input/index/gutenberg/4300.txt", 14465, 7
+"/home/public/cs212/input/index/gutenberg/2701.txt", 11413, 11
+"/home/public/cs212/input/index/gutenberg/1342.txt", 6185, 9
+"/home/public/cs212/input/index/gutenberg/98.txt", 5967, 11
+"/home/public/cs212/input/index/gutenberg/1322.txt", 5470, 9
+"/home/public/cs212/input/index/gutenberg/1661.txt", 4618, 9
+"/home/public/cs212/input/index/gutenberg/11.txt", 1083, 9
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 927, 137
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 681, 47
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 415, 70
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 404, 13
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 352, 25
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 201, 64
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 134, 5
+
+c
+"/home/public/cs212/input/index/gutenberg/4300.txt", 11500, 21
+"/home/public/cs212/input/index/gutenberg/2701.txt", 8652, 25
+"/home/public/cs212/input/index/gutenberg/98.txt", 5266, 10
+"/home/public/cs212/input/index/gutenberg/1342.txt", 4899, 23
+"/home/public/cs212/input/index/gutenberg/1322.txt", 4817, 23
+"/home/public/cs212/input/index/gutenberg/1661.txt", 4251, 11
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1528, 11
+"/home/public/cs212/input/index/gutenberg/11.txt", 1073, 11
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 735, 10
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 679, 11
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 598, 8
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 413, 10
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 412, 10
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 177, 8
+
+d
+"/home/public/cs212/input/index/gutenberg/4300.txt", 8540, 63
+"/home/public/cs212/input/index/gutenberg/2701.txt", 6038, 7
+"/home/public/cs212/input/index/gutenberg/1322.txt", 5340, 67
+"/home/public/cs212/input/index/gutenberg/98.txt", 4950, 13
+"/home/public/cs212/input/index/gutenberg/1342.txt", 3957, 67
+"/home/public/cs212/input/index/gutenberg/1661.txt", 3071, 12
+"/home/public/cs212/input/index/gutenberg/11.txt", 998, 69
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 813, 37
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 672, 6
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 524, 13
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 523, 38
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 433, 31
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 277, 41
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 114, 11
+
+e
+"/home/public/cs212/input/index/gutenberg/4300.txt", 4901, 4
+"/home/public/cs212/input/index/gutenberg/2701.txt", 4126, 4
+"/home/public/cs212/input/index/gutenberg/1342.txt", 3423, 4
+"/home/public/cs212/input/index/gutenberg/1322.txt", 2859, 4
+"/home/public/cs212/input/index/gutenberg/98.txt", 2444, 4
+"/home/public/cs212/input/index/gutenberg/1661.txt", 1884, 14
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 627, 2
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 601, 4
+"/home/public/cs212/input/index/gutenberg/11.txt", 517, 13
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 477, 2
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 365, 2
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 253, 2
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 247, 2
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 49, 94
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/position.txt", 3, 8
+"/home/public/cs212/input/index/simple/symbols.txt", 2, 7
+
+f
+"/home/public/cs212/input/index/gutenberg/4300.txt", 10411, 13
+"/home/public/cs212/input/index/gutenberg/2701.txt", 8562, 17
+"/home/public/cs212/input/index/gutenberg/1322.txt", 5651, 15
+"/home/public/cs212/input/index/gutenberg/98.txt", 5068, 17
+"/home/public/cs212/input/index/gutenberg/1342.txt", 4300, 15
+"/home/public/cs212/input/index/gutenberg/1661.txt", 3920, 16
+"/home/public/cs212/input/index/gutenberg/11.txt", 906, 15
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 822, 7
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 471, 4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 455, 4
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 369, 4
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 340, 4
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 255, 4
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 203, 7
+"/home/public/cs212/input/index/simple/position.txt", 4, 4
+
+g
+"/home/public/cs212/input/index/gutenberg/4300.txt", 6281, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 3696, 3
+"/home/public/cs212/input/index/gutenberg/1322.txt", 2445, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 2363, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 1929, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 1701, 2
+"/home/public/cs212/input/index/gutenberg/11.txt", 689, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 208, 41
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 96, 26
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 94, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 64, 45
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 59, 109
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 56, 162
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 22, 3
+
+h
+"/home/public/cs212/input/index/gutenberg/4300.txt", 20429, 132
+"/home/public/cs212/input/index/gutenberg/2701.txt", 13959, 12
+"/home/public/cs212/input/index/gutenberg/98.txt", 11818, 195
+"/home/public/cs212/input/index/gutenberg/1342.txt", 10621, 132
+"/home/public/cs212/input/index/gutenberg/1661.txt", 8625, 8
+"/home/public/cs212/input/index/gutenberg/1322.txt", 4884, 126
+"/home/public/cs212/input/index/gutenberg/11.txt", 1629, 119
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 975, 7
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 463, 201
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 272, 25
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 185, 202
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 121, 24
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 85, 147
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 84, 71
+
+i
+"/home/public/cs212/input/index/gutenberg/4300.txt", 16000, 12
+"/home/public/cs212/input/index/gutenberg/2701.txt", 14836, 16
+"/home/public/cs212/input/index/gutenberg/98.txt", 9784, 16
+"/home/public/cs212/input/index/gutenberg/1661.txt", 9469, 15
+"/home/public/cs212/input/index/gutenberg/1342.txt", 8725, 14
+"/home/public/cs212/input/index/gutenberg/1322.txt", 8526, 14
+"/home/public/cs212/input/index/gutenberg/11.txt", 2169, 7
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1788, 12
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1250, 1
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1027, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 856, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 821, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 490, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 253, 44
+
+j
+"/home/public/cs212/input/index/gutenberg/4300.txt", 1931, 8
+"/home/public/cs212/input/index/gutenberg/2701.txt", 863, 72
+"/home/public/cs212/input/index/gutenberg/1342.txt", 575, 10
+"/home/public/cs212/input/index/gutenberg/98.txt", 492, 78
+"/home/public/cs212/input/index/gutenberg/1322.txt", 472, 481
+"/home/public/cs212/input/index/gutenberg/1661.txt", 340, 109
+"/home/public/cs212/input/index/gutenberg/11.txt", 123, 70
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 101, 28
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 83, 23
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 58, 15
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 42, 6
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 33, 26
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 27, 1914
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 6, 1700
+
+k
+"/home/public/cs212/input/index/gutenberg/4300.txt", 2106, 163
+"/home/public/cs212/input/index/gutenberg/2701.txt", 979, 249
+"/home/public/cs212/input/index/gutenberg/98.txt", 876, 244
+"/home/public/cs212/input/index/gutenberg/1342.txt", 684, 134
+"/home/public/cs212/input/index/gutenberg/1322.txt", 564, 154
+"/home/public/cs212/input/index/gutenberg/1661.txt", 564, 506
+"/home/public/cs212/input/index/gutenberg/11.txt", 269, 562
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 144, 12
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 96, 583
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 85, 7
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 57, 1041
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 34, 868
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 23, 16
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 10, 624
+
+l
+"/home/public/cs212/input/index/gutenberg/4300.txt", 8683, 46
+"/home/public/cs212/input/index/gutenberg/2701.txt", 6261, 50
+"/home/public/cs212/input/index/gutenberg/98.txt", 4241, 50
+"/home/public/cs212/input/index/gutenberg/1322.txt", 4173, 6
+"/home/public/cs212/input/index/gutenberg/1342.txt", 3147, 48
+"/home/public/cs212/input/index/gutenberg/1661.txt", 2809, 49
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1663, 29
+"/home/public/cs212/input/index/gutenberg/11.txt", 888, 10
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 360, 7
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 172, 250
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 145, 51
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 132, 7
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 120, 30
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 62, 151
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 8
+
+m
+"/home/public/cs212/input/index/gutenberg/4300.txt", 12022, 29
+"/home/public/cs212/input/index/gutenberg/2701.txt", 8593, 6
+"/home/public/cs212/input/index/gutenberg/1342.txt", 6842, 31
+"/home/public/cs212/input/index/gutenberg/98.txt", 6451, 33
+"/home/public/cs212/input/index/gutenberg/1322.txt", 6231, 31
+"/home/public/cs212/input/index/gutenberg/1661.txt", 5307, 32
+"/home/public/cs212/input/index/gutenberg/11.txt", 1033, 31
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 854, 28
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 548, 33
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 464, 18
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 384, 22
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 306, 43
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 284, 10
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 240, 59
+
+n
+"/home/public/cs212/input/index/gutenberg/4300.txt", 5650, 20
+"/home/public/cs212/input/index/gutenberg/2701.txt", 4925, 24
+"/home/public/cs212/input/index/gutenberg/1342.txt", 3504, 22
+"/home/public/cs212/input/index/gutenberg/1322.txt", 3342, 22
+"/home/public/cs212/input/index/gutenberg/98.txt", 3243, 24
+"/home/public/cs212/input/index/gutenberg/1661.txt", 2361, 23
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 693, 1
+"/home/public/cs212/input/index/gutenberg/11.txt", 640, 22
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 440, 28
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 303, 6
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 247, 24
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 231, 74
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 154, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 100, 114
+"/home/public/cs212/input/index/simple/position.txt", 2, 9
+"/home/public/cs212/input/index/simple/symbols.txt", 1, 5
+
+o
+"/home/public/cs212/input/index/gutenberg/4300.txt", 18131, 5
+"/home/public/cs212/input/index/gutenberg/2701.txt", 14530, 5
+"/home/public/cs212/input/index/gutenberg/1322.txt", 9539, 5
+"/home/public/cs212/input/index/gutenberg/98.txt", 8537, 5
+"/home/public/cs212/input/index/gutenberg/1342.txt", 7332, 5
+"/home/public/cs212/input/index/gutenberg/1661.txt", 6092, 6
+"/home/public/cs212/input/index/gutenberg/11.txt", 1741, 18
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1628, 26
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1088, 33
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 710, 48
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 687, 18
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 640, 24
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 592, 12
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 155, 27
+"/home/public/cs212/input/index/simple/symbols.txt", 2, 9
+"/home/public/cs212/input/index/simple/position.txt", 1, 1
+
+p
+"/home/public/cs212/input/index/gutenberg/4300.txt", 9606, 2
+"/home/public/cs212/input/index/gutenberg/2701.txt", 6398, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 4106, 2
+"/home/public/cs212/input/index/gutenberg/98.txt", 3949, 2
+"/home/public/cs212/input/index/gutenberg/1342.txt", 3303, 2
+"/home/public/cs212/input/index/gutenberg/1661.txt", 2795, 1
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1269, 43
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1061, 30
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 785, 24
+"/home/public/cs212/input/index/gutenberg/11.txt", 750, 1
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 566, 12
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 535, 32
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 474, 22
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 98, 23
+"/home/public/cs212/input/index/simple/symbols.txt", 2, 10
+
+q
+"/home/public/cs212/input/index/gutenberg/4300.txt", 749, 418
+"/home/public/cs212/input/index/gutenberg/2701.txt", 723, 237
+"/home/public/cs212/input/index/gutenberg/98.txt", 310, 505
+"/home/public/cs212/input/index/gutenberg/1661.txt", 282, 410
+"/home/public/cs212/input/index/gutenberg/1342.txt", 252, 756
+"/home/public/cs212/input/index/gutenberg/11.txt", 186, 293
+"/home/public/cs212/input/index/gutenberg/1322.txt", 134, 2553
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 35, 688
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 13, 3997
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 12, 4050
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 10, 3457
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 10, 3790
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 8, 1662
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 4, 727
+
+r
+"/home/public/cs212/input/index/gutenberg/4300.txt", 5860, 26
+"/home/public/cs212/input/index/gutenberg/2701.txt", 4019, 30
+"/home/public/cs212/input/index/gutenberg/98.txt", 2917, 30
+"/home/public/cs212/input/index/gutenberg/1322.txt", 2764, 28
+"/home/public/cs212/input/index/gutenberg/1342.txt", 2507, 28
+"/home/public/cs212/input/index/gutenberg/1661.txt", 2185, 29
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1337, 5
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1058, 9
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 787, 8
+"/home/public/cs212/input/index/gutenberg/11.txt", 619, 28
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 592, 8
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 513, 9
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 370, 8
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 133, 6
+
+s
+"/home/public/cs212/input/index/gutenberg/4300.txt", 23673, 81
+"/home/public/cs212/input/index/gutenberg/2701.txt", 20376, 89
+"/home/public/cs212/input/index/gutenberg/1322.txt", 10679, 80
+"/home/public/cs212/input/index/gutenberg/98.txt", 10365, 68
+"/home/public/cs212/input/index/gutenberg/1342.txt", 9573, 85
+"/home/public/cs212/input/index/gutenberg/1661.txt", 8148, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 2863, 3
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1954, 36
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1322, 14
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1170, 11
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 744, 35
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 567, 22
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 507, 39
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 253, 21
+"/home/public/cs212/input/index/simple/position.txt", 4, 6
+
+t
+"/home/public/cs212/input/index/gutenberg/4300.txt", 38299, 1
+"/home/public/cs212/input/index/gutenberg/2701.txt", 36305, 1
+"/home/public/cs212/input/index/gutenberg/98.txt", 21552, 1
+"/home/public/cs212/input/index/gutenberg/1322.txt", 20910, 1
+"/home/public/cs212/input/index/gutenberg/1342.txt", 16497, 1
+"/home/public/cs212/input/index/gutenberg/1661.txt", 15609, 4
+"/home/public/cs212/input/index/gutenberg/11.txt", 5119, 12
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 3430, 3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 3296, 15
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1828, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1654, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1423, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 990, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 499, 22
+"/home/public/cs212/input/index/simple/position.txt", 6, 2
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 3
+
+u
+"/home/public/cs212/input/index/gutenberg/2701.txt", 2734, 19
+"/home/public/cs212/input/index/gutenberg/4300.txt", 2706, 6
+"/home/public/cs212/input/index/gutenberg/98.txt", 1623, 19
+"/home/public/cs212/input/index/gutenberg/1661.txt", 1551, 18
+"/home/public/cs212/input/index/gutenberg/1322.txt", 1391, 17
+"/home/public/cs212/input/index/gutenberg/1342.txt", 1084, 17
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 710, 371
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 520, 23
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 374, 83
+"/home/public/cs212/input/index/gutenberg/11.txt", 326, 17
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 164, 53
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 138, 26
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 85, 532
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 79, 94
+
+v
+"/home/public/cs212/input/index/gutenberg/4300.txt", 1747, 494
+"/home/public/cs212/input/index/gutenberg/2701.txt", 1649, 136
+"/home/public/cs212/input/index/gutenberg/1342.txt", 896, 100
+"/home/public/cs212/input/index/gutenberg/1322.txt", 809, 107
+"/home/public/cs212/input/index/gutenberg/1661.txt", 800, 107
+"/home/public/cs212/input/index/gutenberg/98.txt", 746, 159
+"/home/public/cs212/input/index/gutenberg/11.txt", 303, 125
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 215, 17
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 190, 1007
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 123, 49
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 72, 309
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 38, 110
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 32, 505
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 16, 82
+
+w
+"/home/public/cs212/input/index/gutenberg/4300.txt", 16914, 23
+"/home/public/cs212/input/index/gutenberg/2701.txt", 14997, 10
+"/home/public/cs212/input/index/gutenberg/98.txt", 9900, 27
+"/home/public/cs212/input/index/gutenberg/1342.txt", 9294, 25
+"/home/public/cs212/input/index/gutenberg/1661.txt", 8300, 26
+"/home/public/cs212/input/index/gutenberg/1322.txt", 7334, 10
+"/home/public/cs212/input/index/gutenberg/11.txt", 2087, 8
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 719, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 477, 168
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 473, 42
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 232, 145
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 160, 101
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 152, 45
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 71, 2
+
+x
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 124, 1154
+"/home/public/cs212/input/index/gutenberg/98.txt", 42, 216
+"/home/public/cs212/input/index/gutenberg/1322.txt", 25, 41947
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 20, 322
+"/home/public/cs212/input/index/gutenberg/4300.txt", 20, 22266
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 7, 1293
+"/home/public/cs212/input/index/gutenberg/1661.txt", 6, 175
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 6, 2459
+"/home/public/cs212/input/index/gutenberg/2701.txt", 5, 29748
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 3, 698
+"/home/public/cs212/input/index/gutenberg/11.txt", 3, 21207
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 2, 10393
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1, 3244
+
+y
+"/home/public/cs212/input/index/gutenberg/4300.txt", 3858, 28
+"/home/public/cs212/input/index/gutenberg/1322.txt", 2790, 30
+"/home/public/cs212/input/index/gutenberg/2701.txt", 2609, 32
+"/home/public/cs212/input/index/gutenberg/1661.txt", 2504, 31
+"/home/public/cs212/input/index/gutenberg/98.txt", 2491, 32
+"/home/public/cs212/input/index/gutenberg/1342.txt", 2398, 30
+"/home/public/cs212/input/index/gutenberg/11.txt", 634, 30
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 15, 2709
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 11, 280
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 6, 234
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 4, 211
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 3, 286
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 3, 417
+
+z
+"/home/public/cs212/input/index/gutenberg/4300.txt", 166, 1710
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 71, 61
+"/home/public/cs212/input/index/gutenberg/2701.txt", 35, 7200
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 13, 967
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 11, 3286
+"/home/public/cs212/input/index/gutenberg/1322.txt", 10, 7357
+"/home/public/cs212/input/index/gutenberg/1661.txt", 6, 19741
+"/home/public/cs212/input/index/gutenberg/11.txt", 3, 843
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 3, 12116
+"/home/public/cs212/input/index/gutenberg/98.txt", 3, 34544
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1, 3699
+"/home/public/cs212/input/index/gutenberg/1342.txt", 1, 123011
+
+a b
+"/home/public/cs212/input/index/gutenberg/4300.txt", 41691, 7
+"/home/public/cs212/input/index/gutenberg/2701.txt", 35678, 11
+"/home/public/cs212/input/index/gutenberg/98.txt", 22063, 6
+"/home/public/cs212/input/index/gutenberg/1342.txt", 20154, 7
+"/home/public/cs212/input/index/gutenberg/1322.txt", 19586, 9
+"/home/public/cs212/input/index/gutenberg/1661.txt", 16393, 5
+"/home/public/cs212/input/index/gutenberg/11.txt", 4855, 4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 3852, 15
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 3354, 16
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 2017, 24
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1619, 13
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1465, 13
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1204, 13
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 518, 4
+"/home/public/cs212/input/index/simple/symbols.txt", 9, 1
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+c d
+"/home/public/cs212/input/index/gutenberg/4300.txt", 20040, 21
+"/home/public/cs212/input/index/gutenberg/2701.txt", 14690, 7
+"/home/public/cs212/input/index/gutenberg/98.txt", 10216, 10
+"/home/public/cs212/input/index/gutenberg/1322.txt", 10157, 23
+"/home/public/cs212/input/index/gutenberg/1342.txt", 8856, 23
+"/home/public/cs212/input/index/gutenberg/1661.txt", 7322, 11
+"/home/public/cs212/input/index/gutenberg/11.txt", 2071, 11
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 2052, 11
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1411, 8
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1351, 6
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1258, 10
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 846, 10
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 689, 10
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 291, 8
+
+e f
+"/home/public/cs212/input/index/gutenberg/4300.txt", 15312, 4
+"/home/public/cs212/input/index/gutenberg/2701.txt", 12688, 4
+"/home/public/cs212/input/index/gutenberg/1322.txt", 8510, 4
+"/home/public/cs212/input/index/gutenberg/1342.txt", 7723, 4
+"/home/public/cs212/input/index/gutenberg/98.txt", 7512, 4
+"/home/public/cs212/input/index/gutenberg/1661.txt", 5804, 14
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1423, 4
+"/home/public/cs212/input/index/gutenberg/11.txt", 1423, 13
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1082, 2
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 948, 2
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 705, 2
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 616, 2
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 508, 2
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 252, 7
+"/home/public/cs212/input/index/simple/position.txt", 7, 4
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 2, 7
+
+g h
+"/home/public/cs212/input/index/gutenberg/4300.txt", 26710, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 17655, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 14181, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 12550, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 10326, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 7329, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 2318, 2
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1071, 7
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 557, 3
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 480, 25
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 249, 45
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 180, 24
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 141, 147
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 106, 3
+
+i j
+"/home/public/cs212/input/index/gutenberg/4300.txt", 17931, 8
+"/home/public/cs212/input/index/gutenberg/2701.txt", 15699, 16
+"/home/public/cs212/input/index/gutenberg/98.txt", 10276, 16
+"/home/public/cs212/input/index/gutenberg/1661.txt", 9809, 15
+"/home/public/cs212/input/index/gutenberg/1342.txt", 9300, 10
+"/home/public/cs212/input/index/gutenberg/1322.txt", 8998, 14
+"/home/public/cs212/input/index/gutenberg/11.txt", 2292, 7
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1871, 12
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1351, 1
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1069, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 883, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 879, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 523, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 259, 44
+
+k l
+"/home/public/cs212/input/index/gutenberg/4300.txt", 10789, 46
+"/home/public/cs212/input/index/gutenberg/2701.txt", 7240, 50
+"/home/public/cs212/input/index/gutenberg/98.txt", 5117, 50
+"/home/public/cs212/input/index/gutenberg/1322.txt", 4737, 6
+"/home/public/cs212/input/index/gutenberg/1342.txt", 3831, 48
+"/home/public/cs212/input/index/gutenberg/1661.txt", 3373, 49
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1697, 29
+"/home/public/cs212/input/index/gutenberg/11.txt", 1157, 10
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 417, 7
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 276, 7
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 268, 250
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 230, 7
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 143, 16
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 72, 151
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 8
+
+m n
+"/home/public/cs212/input/index/gutenberg/4300.txt", 17672, 20
+"/home/public/cs212/input/index/gutenberg/2701.txt", 13518, 6
+"/home/public/cs212/input/index/gutenberg/1342.txt", 10346, 22
+"/home/public/cs212/input/index/gutenberg/98.txt", 9694, 24
+"/home/public/cs212/input/index/gutenberg/1322.txt", 9573, 22
+"/home/public/cs212/input/index/gutenberg/1661.txt", 7668, 23
+"/home/public/cs212/input/index/gutenberg/11.txt", 1673, 22
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1547, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 851, 6
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 824, 22
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 695, 18
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 553, 24
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 438, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 340, 59
+"/home/public/cs212/input/index/simple/position.txt", 2, 9
+"/home/public/cs212/input/index/simple/symbols.txt", 1, 5
+
+o p
+"/home/public/cs212/input/index/gutenberg/4300.txt", 27737, 2
+"/home/public/cs212/input/index/gutenberg/2701.txt", 20928, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 13645, 2
+"/home/public/cs212/input/index/gutenberg/98.txt", 12486, 2
+"/home/public/cs212/input/index/gutenberg/1342.txt", 10635, 2
+"/home/public/cs212/input/index/gutenberg/1661.txt", 8887, 1
+"/home/public/cs212/input/index/gutenberg/11.txt", 2491, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 2413, 24
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 2357, 33
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1748, 18
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1276, 12
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1175, 24
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1066, 12
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 253, 23
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 9
+"/home/public/cs212/input/index/simple/position.txt", 1, 1
+
+q r
+"/home/public/cs212/input/index/gutenberg/4300.txt", 6609, 26
+"/home/public/cs212/input/index/gutenberg/2701.txt", 4742, 30
+"/home/public/cs212/input/index/gutenberg/98.txt", 3227, 30
+"/home/public/cs212/input/index/gutenberg/1322.txt", 2898, 28
+"/home/public/cs212/input/index/gutenberg/1342.txt", 2759, 28
+"/home/public/cs212/input/index/gutenberg/1661.txt", 2467, 29
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1350, 5
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1068, 9
+"/home/public/cs212/input/index/gutenberg/11.txt", 805, 28
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 795, 8
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 602, 8
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 548, 9
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 382, 8
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 137, 6
+
+s t
+"/home/public/cs212/input/index/gutenberg/4300.txt", 61972, 1
+"/home/public/cs212/input/index/gutenberg/2701.txt", 56681, 1
+"/home/public/cs212/input/index/gutenberg/98.txt", 31917, 1
+"/home/public/cs212/input/index/gutenberg/1322.txt", 31589, 1
+"/home/public/cs212/input/index/gutenberg/1342.txt", 26070, 1
+"/home/public/cs212/input/index/gutenberg/1661.txt", 23757, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 7982, 3
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 5384, 3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 4466, 11
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 3150, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2398, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1930, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1557, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 752, 21
+"/home/public/cs212/input/index/simple/position.txt", 10, 2
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 3
+
+u v
+"/home/public/cs212/input/index/gutenberg/4300.txt", 4453, 6
+"/home/public/cs212/input/index/gutenberg/2701.txt", 4383, 19
+"/home/public/cs212/input/index/gutenberg/98.txt", 2369, 19
+"/home/public/cs212/input/index/gutenberg/1661.txt", 2351, 18
+"/home/public/cs212/input/index/gutenberg/1322.txt", 2200, 17
+"/home/public/cs212/input/index/gutenberg/1342.txt", 1980, 17
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 900, 371
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 643, 23
+"/home/public/cs212/input/index/gutenberg/11.txt", 629, 17
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 589, 17
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 236, 53
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 154, 26
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 117, 94
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 117, 505
+
+w x
+"/home/public/cs212/input/index/gutenberg/4300.txt", 16934, 23
+"/home/public/cs212/input/index/gutenberg/2701.txt", 15002, 10
+"/home/public/cs212/input/index/gutenberg/98.txt", 9942, 27
+"/home/public/cs212/input/index/gutenberg/1342.txt", 9294, 25
+"/home/public/cs212/input/index/gutenberg/1661.txt", 8306, 26
+"/home/public/cs212/input/index/gutenberg/1322.txt", 7359, 10
+"/home/public/cs212/input/index/gutenberg/11.txt", 2090, 8
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 843, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 484, 168
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 479, 42
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 252, 145
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 162, 101
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 155, 45
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 72, 2
+
+y z
+"/home/public/cs212/input/index/gutenberg/4300.txt", 4024, 28
+"/home/public/cs212/input/index/gutenberg/1322.txt", 2800, 30
+"/home/public/cs212/input/index/gutenberg/2701.txt", 2644, 32
+"/home/public/cs212/input/index/gutenberg/1661.txt", 2510, 31
+"/home/public/cs212/input/index/gutenberg/98.txt", 2494, 32
+"/home/public/cs212/input/index/gutenberg/1342.txt", 2399, 30
+"/home/public/cs212/input/index/gutenberg/11.txt", 637, 30
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 74, 61
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 22, 280
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 18, 2709
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 16, 417
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 6, 234
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 5, 211
+
+a b c
+"/home/public/cs212/input/index/gutenberg/4300.txt", 53191, 7
+"/home/public/cs212/input/index/gutenberg/2701.txt", 44330, 11
+"/home/public/cs212/input/index/gutenberg/98.txt", 27329, 6
+"/home/public/cs212/input/index/gutenberg/1342.txt", 25053, 7
+"/home/public/cs212/input/index/gutenberg/1322.txt", 24403, 9
+"/home/public/cs212/input/index/gutenberg/1661.txt", 20644, 5
+"/home/public/cs212/input/index/gutenberg/11.txt", 5928, 4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 5380, 11
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 3952, 8
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 2752, 10
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 2298, 11
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1877, 10
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1617, 10
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 695, 4
+"/home/public/cs212/input/index/simple/symbols.txt", 9, 1
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+d e f
+"/home/public/cs212/input/index/gutenberg/4300.txt", 23852, 4
+"/home/public/cs212/input/index/gutenberg/2701.txt", 18726, 4
+"/home/public/cs212/input/index/gutenberg/1322.txt", 13850, 4
+"/home/public/cs212/input/index/gutenberg/98.txt", 12462, 4
+"/home/public/cs212/input/index/gutenberg/1342.txt", 11680, 4
+"/home/public/cs212/input/index/gutenberg/1661.txt", 8875, 12
+"/home/public/cs212/input/index/gutenberg/11.txt", 2421, 13
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 2236, 4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1606, 2
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1471, 2
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1377, 2
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 941, 2
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 893, 2
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 366, 7
+"/home/public/cs212/input/index/simple/position.txt", 7, 4
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 2, 7
+
+g h i
+"/home/public/cs212/input/index/gutenberg/4300.txt", 42710, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 32491, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 23965, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 21275, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 19795, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 15855, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 4487, 2
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 2345, 3
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 2098, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1730, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1105, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1001, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 631, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 359, 3
+
+j k l
+"/home/public/cs212/input/index/gutenberg/4300.txt", 12720, 8
+"/home/public/cs212/input/index/gutenberg/2701.txt", 8103, 50
+"/home/public/cs212/input/index/gutenberg/98.txt", 5609, 50
+"/home/public/cs212/input/index/gutenberg/1322.txt", 5209, 6
+"/home/public/cs212/input/index/gutenberg/1342.txt", 4406, 10
+"/home/public/cs212/input/index/gutenberg/1661.txt", 3713, 49
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1780, 23
+"/home/public/cs212/input/index/gutenberg/11.txt", 1280, 10
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 518, 7
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 310, 6
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 309, 7
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 257, 7
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 201, 15
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 78, 151
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 8
+
+m n o
+"/home/public/cs212/input/index/gutenberg/4300.txt", 35803, 5
+"/home/public/cs212/input/index/gutenberg/2701.txt", 28048, 5
+"/home/public/cs212/input/index/gutenberg/1322.txt", 19112, 5
+"/home/public/cs212/input/index/gutenberg/98.txt", 18231, 5
+"/home/public/cs212/input/index/gutenberg/1342.txt", 17678, 5
+"/home/public/cs212/input/index/gutenberg/1661.txt", 13760, 6
+"/home/public/cs212/input/index/gutenberg/11.txt", 3414, 18
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 2635, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 2323, 18
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1534, 22
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1443, 6
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1240, 18
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 980, 24
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 593, 1
+"/home/public/cs212/input/index/simple/position.txt", 3, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 3, 5
+
+p q r
+"/home/public/cs212/input/index/gutenberg/4300.txt", 16215, 2
+"/home/public/cs212/input/index/gutenberg/2701.txt", 11140, 2
+"/home/public/cs212/input/index/gutenberg/98.txt", 7176, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 7004, 2
+"/home/public/cs212/input/index/gutenberg/1342.txt", 6062, 2
+"/home/public/cs212/input/index/gutenberg/1661.txt", 5262, 1
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 2619, 5
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1853, 9
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1609, 9
+"/home/public/cs212/input/index/gutenberg/11.txt", 1555, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1269, 8
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1168, 8
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 917, 8
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 235, 6
+"/home/public/cs212/input/index/simple/symbols.txt", 2, 10
+
+s t u
+"/home/public/cs212/input/index/gutenberg/4300.txt", 64678, 1
+"/home/public/cs212/input/index/gutenberg/2701.txt", 59415, 1
+"/home/public/cs212/input/index/gutenberg/98.txt", 33540, 1
+"/home/public/cs212/input/index/gutenberg/1322.txt", 32980, 1
+"/home/public/cs212/input/index/gutenberg/1342.txt", 27154, 1
+"/home/public/cs212/input/index/gutenberg/1661.txt", 25308, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 8308, 3
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 6094, 3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 4840, 11
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 3670, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2562, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 2009, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1642, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 890, 21
+"/home/public/cs212/input/index/simple/position.txt", 10, 2
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 3
+
+v w x
+"/home/public/cs212/input/index/gutenberg/4300.txt", 18681, 23
+"/home/public/cs212/input/index/gutenberg/2701.txt", 16651, 10
+"/home/public/cs212/input/index/gutenberg/98.txt", 10688, 27
+"/home/public/cs212/input/index/gutenberg/1342.txt", 10190, 25
+"/home/public/cs212/input/index/gutenberg/1661.txt", 9106, 26
+"/home/public/cs212/input/index/gutenberg/1322.txt", 8168, 10
+"/home/public/cs212/input/index/gutenberg/11.txt", 2393, 8
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1058, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 674, 168
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 602, 42
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 324, 145
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 200, 101
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 187, 45
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 88, 2
+
+a b c d
+"/home/public/cs212/input/index/gutenberg/4300.txt", 61731, 7
+"/home/public/cs212/input/index/gutenberg/2701.txt", 50368, 7
+"/home/public/cs212/input/index/gutenberg/98.txt", 32279, 6
+"/home/public/cs212/input/index/gutenberg/1322.txt", 29743, 9
+"/home/public/cs212/input/index/gutenberg/1342.txt", 29010, 7
+"/home/public/cs212/input/index/gutenberg/1661.txt", 23715, 5
+"/home/public/cs212/input/index/gutenberg/11.txt", 6926, 4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 5904, 11
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 4765, 8
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 3275, 10
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 2970, 6
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2154, 10
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 2050, 10
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 809, 4
+"/home/public/cs212/input/index/simple/symbols.txt", 9, 1
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+e f g h
+"/home/public/cs212/input/index/gutenberg/4300.txt", 42022, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 30343, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 21693, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 20273, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 16130, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 15839, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 3741, 2
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 2019, 2
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1980, 3
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1562, 2
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 954, 2
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 796, 2
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 649, 2
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 358, 3
+"/home/public/cs212/input/index/simple/position.txt", 7, 4
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 2, 7
+
+i j k l
+"/home/public/cs212/input/index/gutenberg/4300.txt", 28720, 8
+"/home/public/cs212/input/index/gutenberg/2701.txt", 22939, 16
+"/home/public/cs212/input/index/gutenberg/98.txt", 15393, 16
+"/home/public/cs212/input/index/gutenberg/1322.txt", 13735, 6
+"/home/public/cs212/input/index/gutenberg/1661.txt", 13182, 15
+"/home/public/cs212/input/index/gutenberg/1342.txt", 13131, 10
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 3568, 12
+"/home/public/cs212/input/index/gutenberg/11.txt", 3449, 7
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1768, 1
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1337, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1113, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1022, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 799, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 331, 44
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 8
+
+m n o p
+"/home/public/cs212/input/index/gutenberg/4300.txt", 45409, 2
+"/home/public/cs212/input/index/gutenberg/2701.txt", 34446, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 23218, 2
+"/home/public/cs212/input/index/gutenberg/98.txt", 22180, 2
+"/home/public/cs212/input/index/gutenberg/1342.txt", 20981, 2
+"/home/public/cs212/input/index/gutenberg/1661.txt", 16555, 1
+"/home/public/cs212/input/index/gutenberg/11.txt", 4164, 1
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 3904, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 3108, 18
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 2301, 18
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 2100, 12
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1917, 6
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1515, 24
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 691, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 5, 5
+"/home/public/cs212/input/index/simple/position.txt", 3, 1
+
+q r s t
+"/home/public/cs212/input/index/gutenberg/4300.txt", 68581, 1
+"/home/public/cs212/input/index/gutenberg/2701.txt", 61423, 1
+"/home/public/cs212/input/index/gutenberg/98.txt", 35144, 1
+"/home/public/cs212/input/index/gutenberg/1322.txt", 34487, 1
+"/home/public/cs212/input/index/gutenberg/1342.txt", 28829, 1
+"/home/public/cs212/input/index/gutenberg/1661.txt", 26224, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 8787, 3
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 6452, 3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 5816, 5
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 3752, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 3193, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 2478, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1939, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 889, 6
+"/home/public/cs212/input/index/simple/position.txt", 10, 2
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 3
+
+u v w x
+"/home/public/cs212/input/index/gutenberg/4300.txt", 21387, 6
+"/home/public/cs212/input/index/gutenberg/2701.txt", 19385, 10
+"/home/public/cs212/input/index/gutenberg/98.txt", 12311, 19
+"/home/public/cs212/input/index/gutenberg/1342.txt", 11274, 17
+"/home/public/cs212/input/index/gutenberg/1661.txt", 10657, 18
+"/home/public/cs212/input/index/gutenberg/1322.txt", 9559, 10
+"/home/public/cs212/input/index/gutenberg/11.txt", 2719, 8
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1432, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1384, 168
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1122, 23
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 488, 53
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 279, 94
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 272, 45
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 226, 2
+
+a b c d e
+"/home/public/cs212/input/index/gutenberg/4300.txt", 66632, 4
+"/home/public/cs212/input/index/gutenberg/2701.txt", 54494, 4
+"/home/public/cs212/input/index/gutenberg/98.txt", 34723, 4
+"/home/public/cs212/input/index/gutenberg/1322.txt", 32602, 4
+"/home/public/cs212/input/index/gutenberg/1342.txt", 32433, 4
+"/home/public/cs212/input/index/gutenberg/1661.txt", 25599, 5
+"/home/public/cs212/input/index/gutenberg/11.txt", 7443, 4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 6531, 2
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 5366, 4
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 3752, 2
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 3335, 2
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2401, 2
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 2303, 2
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 858, 4
+"/home/public/cs212/input/index/simple/symbols.txt", 11, 1
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/position.txt", 3, 8
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+f g h i j
+"/home/public/cs212/input/index/gutenberg/4300.txt", 55052, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 41916, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 29525, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 26150, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 24055, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 21978, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 5516, 2
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 3250, 3
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 2611, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 2286, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1472, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1428, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 919, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 568, 3
+"/home/public/cs212/input/index/simple/position.txt", 4, 4
+
+k l m n o
+"/home/public/cs212/input/index/gutenberg/4300.txt", 46592, 5
+"/home/public/cs212/input/index/gutenberg/2701.txt", 35288, 5
+"/home/public/cs212/input/index/gutenberg/1322.txt", 23849, 5
+"/home/public/cs212/input/index/gutenberg/98.txt", 23348, 5
+"/home/public/cs212/input/index/gutenberg/1342.txt", 21509, 5
+"/home/public/cs212/input/index/gutenberg/1661.txt", 17133, 6
+"/home/public/cs212/input/index/gutenberg/11.txt", 4571, 10
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 4332, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 2740, 7
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1802, 22
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1586, 6
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1470, 7
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1256, 7
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 665, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 7, 5
+"/home/public/cs212/input/index/simple/position.txt", 3, 1
+
+p q r s t
+"/home/public/cs212/input/index/gutenberg/4300.txt", 78187, 1
+"/home/public/cs212/input/index/gutenberg/2701.txt", 67821, 1
+"/home/public/cs212/input/index/gutenberg/98.txt", 39093, 1
+"/home/public/cs212/input/index/gutenberg/1322.txt", 38593, 1
+"/home/public/cs212/input/index/gutenberg/1342.txt", 32132, 1
+"/home/public/cs212/input/index/gutenberg/1661.txt", 29019, 1
+"/home/public/cs212/input/index/gutenberg/11.txt", 9537, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 7237, 3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 7085, 5
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 4318, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 3667, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 3539, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 2474, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 987, 6
+"/home/public/cs212/input/index/simple/position.txt", 10, 2
+"/home/public/cs212/input/index/simple/symbols.txt", 6, 3
+
+u v w x y
+"/home/public/cs212/input/index/gutenberg/4300.txt", 25245, 6
+"/home/public/cs212/input/index/gutenberg/2701.txt", 21994, 10
+"/home/public/cs212/input/index/gutenberg/98.txt", 14802, 19
+"/home/public/cs212/input/index/gutenberg/1342.txt", 13672, 17
+"/home/public/cs212/input/index/gutenberg/1661.txt", 13161, 18
+"/home/public/cs212/input/index/gutenberg/1322.txt", 12349, 10
+"/home/public/cs212/input/index/gutenberg/11.txt", 3353, 8
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1447, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1390, 168
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 1133, 23
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 492, 53
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 282, 94
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 275, 45
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 226, 2
+
+a b c d e f
+"/home/public/cs212/input/index/gutenberg/4300.txt", 77043, 4
+"/home/public/cs212/input/index/gutenberg/2701.txt", 63056, 4
+"/home/public/cs212/input/index/gutenberg/98.txt", 39791, 4
+"/home/public/cs212/input/index/gutenberg/1322.txt", 38253, 4
+"/home/public/cs212/input/index/gutenberg/1342.txt", 36733, 4
+"/home/public/cs212/input/index/gutenberg/1661.txt", 29519, 5
+"/home/public/cs212/input/index/gutenberg/11.txt", 8349, 4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 6986, 2
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 6188, 4
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 4223, 2
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 3675, 2
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2770, 2
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 2558, 2
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1061, 4
+"/home/public/cs212/input/index/simple/symbols.txt", 11, 1
+"/home/public/cs212/input/index/simple/position.txt", 7, 4
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+g h i j k l
+"/home/public/cs212/input/index/gutenberg/4300.txt", 55430, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 40594, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 29574, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 25681, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 23508, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 21064, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 5767, 2
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 4125, 3
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 2408, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 2248, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1362, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1202, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 940, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 437, 3
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 8
+
+m n o p q r
+"/home/public/cs212/input/index/gutenberg/4300.txt", 52018, 2
+"/home/public/cs212/input/index/gutenberg/2701.txt", 39188, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 26116, 2
+"/home/public/cs212/input/index/gutenberg/98.txt", 25407, 2
+"/home/public/cs212/input/index/gutenberg/1342.txt", 23740, 2
+"/home/public/cs212/input/index/gutenberg/1661.txt", 19022, 1
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 5254, 1
+"/home/public/cs212/input/index/gutenberg/11.txt", 4969, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 4176, 9
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 2849, 9
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2712, 6
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 2702, 8
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1897, 8
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 828, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 5, 5
+"/home/public/cs212/input/index/simple/position.txt", 3, 1
+
+s t u v w x
+"/home/public/cs212/input/index/gutenberg/4300.txt", 83359, 1
+"/home/public/cs212/input/index/gutenberg/2701.txt", 76066, 1
+"/home/public/cs212/input/index/gutenberg/98.txt", 44228, 1
+"/home/public/cs212/input/index/gutenberg/1322.txt", 41148, 1
+"/home/public/cs212/input/index/gutenberg/1342.txt", 37344, 1
+"/home/public/cs212/input/index/gutenberg/1661.txt", 34414, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 10701, 3
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 6768, 3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 5898, 2
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 4272, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2886, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 2209, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1829, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 978, 2
+"/home/public/cs212/input/index/simple/position.txt", 10, 2
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 3
+
+a b c d e f g
+"/home/public/cs212/input/index/gutenberg/4300.txt", 83324, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 66752, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 42154, 3
+"/home/public/cs212/input/index/gutenberg/1322.txt", 40698, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 38662, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 31220, 2
+"/home/public/cs212/input/index/gutenberg/11.txt", 9038, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 7194, 2
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 6282, 3
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 4319, 2
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 3739, 2
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2829, 2
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 2614, 2
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1083, 3
+"/home/public/cs212/input/index/simple/symbols.txt", 11, 1
+"/home/public/cs212/input/index/simple/position.txt", 7, 4
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+h i j k l m n
+"/home/public/cs212/input/index/gutenberg/4300.txt", 66821, 8
+"/home/public/cs212/input/index/gutenberg/2701.txt", 50416, 6
+"/home/public/cs212/input/index/gutenberg/98.txt", 36905, 16
+"/home/public/cs212/input/index/gutenberg/1342.txt", 34098, 10
+"/home/public/cs212/input/index/gutenberg/1661.txt", 29475, 8
+"/home/public/cs212/input/index/gutenberg/1322.txt", 28192, 6
+"/home/public/cs212/input/index/gutenberg/11.txt", 6751, 7
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 5578, 1
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 3136, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 2735, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 1994, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1851, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 1224, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 853, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 5, 5
+"/home/public/cs212/input/index/simple/position.txt", 2, 9
+
+o p q r s t u
+"/home/public/cs212/input/index/gutenberg/4300.txt", 99024, 1
+"/home/public/cs212/input/index/gutenberg/2701.txt", 85085, 1
+"/home/public/cs212/input/index/gutenberg/1322.txt", 49523, 1
+"/home/public/cs212/input/index/gutenberg/98.txt", 49253, 1
+"/home/public/cs212/input/index/gutenberg/1342.txt", 40548, 1
+"/home/public/cs212/input/index/gutenberg/1661.txt", 36662, 1
+"/home/public/cs212/input/index/gutenberg/11.txt", 11604, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 9575, 3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 8547, 5
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 5548, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 4423, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 4305, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 3199, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1280, 6
+"/home/public/cs212/input/index/simple/position.txt", 11, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 8, 3
+
+a b c d e f g h
+"/home/public/cs212/input/index/gutenberg/4300.txt", 103753, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 80711, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 53972, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 49283, 3
+"/home/public/cs212/input/index/gutenberg/1322.txt", 45582, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 39845, 2
+"/home/public/cs212/input/index/gutenberg/11.txt", 10667, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 7466, 2
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 6745, 3
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 5294, 2
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 3924, 2
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2950, 2
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 2699, 2
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1167, 3
+"/home/public/cs212/input/index/simple/symbols.txt", 11, 1
+"/home/public/cs212/input/index/simple/position.txt", 7, 4
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+i j k l m n o p
+"/home/public/cs212/input/index/gutenberg/4300.txt", 74129, 2
+"/home/public/cs212/input/index/gutenberg/2701.txt", 57385, 2
+"/home/public/cs212/input/index/gutenberg/98.txt", 37573, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 36953, 2
+"/home/public/cs212/input/index/gutenberg/1342.txt", 34112, 2
+"/home/public/cs212/input/index/gutenberg/1661.txt", 29737, 1
+"/home/public/cs212/input/index/gutenberg/11.txt", 7613, 1
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 7472, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 4876, 1
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 3437, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 3414, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2939, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 2314, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1022, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 9, 5
+"/home/public/cs212/input/index/simple/position.txt", 3, 1
+
+q r s t u v w x
+"/home/public/cs212/input/index/gutenberg/4300.txt", 89968, 1
+"/home/public/cs212/input/index/gutenberg/2701.txt", 80808, 1
+"/home/public/cs212/input/index/gutenberg/98.txt", 47455, 1
+"/home/public/cs212/input/index/gutenberg/1322.txt", 44046, 1
+"/home/public/cs212/input/index/gutenberg/1342.txt", 40103, 1
+"/home/public/cs212/input/index/gutenberg/1661.txt", 36881, 3
+"/home/public/cs212/input/index/gutenberg/11.txt", 11506, 3
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 7836, 3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 7248, 2
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 4874, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 3681, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 2757, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 2211, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1115, 2
+"/home/public/cs212/input/index/simple/position.txt", 10, 2
+"/home/public/cs212/input/index/simple/symbols.txt", 4, 3
+
+a b c d e f g h i
+"/home/public/cs212/input/index/gutenberg/4300.txt", 119753, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 95547, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 63756, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 58008, 3
+"/home/public/cs212/input/index/gutenberg/1322.txt", 54108, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 49314, 2
+"/home/public/cs212/input/index/gutenberg/11.txt", 12836, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 8716, 1
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 8533, 3
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 6321, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 4780, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 3771, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 3189, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1420, 3
+"/home/public/cs212/input/index/simple/symbols.txt", 11, 1
+"/home/public/cs212/input/index/simple/position.txt", 7, 4
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+j k l m n o p q r
+"/home/public/cs212/input/index/gutenberg/4300.txt", 64738, 2
+"/home/public/cs212/input/index/gutenberg/2701.txt", 47291, 2
+"/home/public/cs212/input/index/gutenberg/1322.txt", 31325, 2
+"/home/public/cs212/input/index/gutenberg/98.txt", 31016, 2
+"/home/public/cs212/input/index/gutenberg/1342.txt", 28146, 2
+"/home/public/cs212/input/index/gutenberg/1661.txt", 22735, 1
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 7034, 1
+"/home/public/cs212/input/index/gutenberg/11.txt", 6249, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 4694, 7
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 3106, 7
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 3012, 6
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2913, 6
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 2206, 7
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 906, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 9, 5
+"/home/public/cs212/input/index/simple/position.txt", 3, 1
+
+a b c d e f g h i j
+"/home/public/cs212/input/index/gutenberg/4300.txt", 121684, 3
+"/home/public/cs212/input/index/gutenberg/2701.txt", 96410, 3
+"/home/public/cs212/input/index/gutenberg/98.txt", 64248, 3
+"/home/public/cs212/input/index/gutenberg/1342.txt", 58583, 3
+"/home/public/cs212/input/index/gutenberg/1322.txt", 54580, 3
+"/home/public/cs212/input/index/gutenberg/1661.txt", 49654, 2
+"/home/public/cs212/input/index/gutenberg/11.txt", 12959, 2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 8817, 1
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 8616, 3
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 6363, 1
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 4807, 1
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 3829, 1
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 3222, 1
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1426, 3
+"/home/public/cs212/input/index/simple/symbols.txt", 11, 1
+"/home/public/cs212/input/index/simple/position.txt", 7, 4
+"/home/public/cs212/input/index/simple/capitals.txt", 4, 1
+"/home/public/cs212/input/index/simple/a/b/c/d/subdir.txt", 1, 1
+"/home/public/cs212/input/index/simple/capital_extension.TXT", 1, 1
+"/home/public/cs212/input/index/simple/digits.txt", 1, 5
+
+k l m n o p q r s t
+"/home/public/cs212/input/index/gutenberg/4300.txt", 124779, 1
+"/home/public/cs212/input/index/gutenberg/2701.txt", 103109, 1
+"/home/public/cs212/input/index/gutenberg/1322.txt", 62442, 1
+"/home/public/cs212/input/index/gutenberg/98.txt", 62441, 1
+"/home/public/cs212/input/index/gutenberg/1342.txt", 53641, 1
+"/home/public/cs212/input/index/gutenberg/1661.txt", 46152, 1
+"/home/public/cs212/input/index/gutenberg/11.txt", 14108, 1
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 11417, 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 9977, 3
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 6120, 3
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 5253, 3
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 5009, 3
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 3730, 3
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 1652, 1
+"/home/public/cs212/input/index/simple/position.txt", 13, 1
+"/home/public/cs212/input/index/simple/symbols.txt", 13, 3
+
+0
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 98, 32
+"/home/public/cs212/input/index/gutenberg/4300.txt", 56, 155064
+"/home/public/cs212/input/index/gutenberg/2701.txt", 22, 44633
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 11, 3273
+"/home/public/cs212/input/index/gutenberg/1661.txt", 6, 15500
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 5, 4245
+"/home/public/cs212/input/index/gutenberg/11.txt", 2, 113
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 2, 10046
+"/home/public/cs212/input/index/gutenberg/1322.txt", 2, 91112
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 1, 10659
+"/home/public/cs212/input/index/gutenberg/1342.txt", 1, 125720
+"/home/public/cs212/input/index/gutenberg/98.txt", 1, 141256
+
+1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 358, 22
+"/home/public/cs212/input/index/gutenberg/4300.txt", 356, 65
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 262, 20
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 230, 68
+"/home/public/cs212/input/index/gutenberg/1322.txt", 162, 72
+"/home/public/cs212/input/index/gutenberg/2701.txt", 151, 1706
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 134, 23
+"/home/public/cs212/input/index/gutenberg/1661.txt", 108, 73
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 96, 14
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 96, 21
+"/home/public/cs212/input/index/gutenberg/1342.txt", 67, 72
+"/home/public/cs212/input/index/gutenberg/11.txt", 53, 74
+"/home/public/cs212/input/index/gutenberg/98.txt", 52, 79
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 18, 13
+"/home/public/cs212/input/index/simple/digits.txt", 3, 1
+
+2
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 464, 21
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 268, 27
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 242, 19
+"/home/public/cs212/input/index/gutenberg/4300.txt", 165, 66
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 163, 22
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 132, 26
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 120, 20
+"/home/public/cs212/input/index/gutenberg/1322.txt", 60, 69
+"/home/public/cs212/input/index/gutenberg/2701.txt", 38, 74
+"/home/public/cs212/input/index/gutenberg/1661.txt", 31, 74
+"/home/public/cs212/input/index/gutenberg/1342.txt", 21, 69
+"/home/public/cs212/input/index/gutenberg/98.txt", 12, 85
+"/home/public/cs212/input/index/gutenberg/11.txt", 9, 71
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 6, 40
+"/home/public/cs212/input/index/simple/digits.txt", 1, 2
+
+3
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 260, 9
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 217, 311
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 101, 360
+"/home/public/cs212/input/index/gutenberg/4300.txt", 75, 19926
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 71, 335
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 57, 480
+"/home/public/cs212/input/index/gutenberg/1322.txt", 52, 3121
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 38, 275
+"/home/public/cs212/input/index/gutenberg/2701.txt", 30, 73
+"/home/public/cs212/input/index/gutenberg/1342.txt", 23, 1766
+"/home/public/cs212/input/index/gutenberg/1661.txt", 23, 13331
+"/home/public/cs212/input/index/gutenberg/11.txt", 12, 112
+"/home/public/cs212/input/index/gutenberg/98.txt", 11, 139577
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 6, 837
+"/home/public/cs212/input/index/simple/digits.txt", 1, 3
+
+4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 370, 259
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 152, 311
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 97, 120
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 78, 18
+"/home/public/cs212/input/index/gutenberg/4300.txt", 76, 68
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 69, 442
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 56, 305
+"/home/public/cs212/input/index/gutenberg/1322.txt", 42, 3182
+"/home/public/cs212/input/index/gutenberg/2701.txt", 25, 2416
+"/home/public/cs212/input/index/gutenberg/1661.txt", 20, 10086
+"/home/public/cs212/input/index/gutenberg/1342.txt", 18, 3474
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 14, 9
+"/home/public/cs212/input/index/gutenberg/11.txt", 6, 28575
+"/home/public/cs212/input/index/gutenberg/98.txt", 6, 139651
+
+5
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 410, 145
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 103, 163
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 75, 185
+"/home/public/cs212/input/index/gutenberg/4300.txt", 64, 78711
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 55, 316
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 49, 175
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 45, 122
+"/home/public/cs212/input/index/gutenberg/1322.txt", 30, 3279
+"/home/public/cs212/input/index/gutenberg/2701.txt", 26, 1745
+"/home/public/cs212/input/index/gutenberg/1342.txt", 19, 4545
+"/home/public/cs212/input/index/gutenberg/1661.txt", 11, 8034
+"/home/public/cs212/input/index/gutenberg/11.txt", 8, 28613
+"/home/public/cs212/input/index/gutenberg/98.txt", 8, 139689
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 3, 1110
+
+6
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 155, 12
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 86, 11
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 64, 11
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 63, 11
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 55, 12
+"/home/public/cs212/input/index/gutenberg/4300.txt", 42, 173695
+"/home/public/cs212/input/index/gutenberg/1322.txt", 26, 3414
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 18, 124
+"/home/public/cs212/input/index/gutenberg/2701.txt", 17, 16069
+"/home/public/cs212/input/index/gutenberg/1661.txt", 13, 19818
+"/home/public/cs212/input/index/gutenberg/1342.txt", 9, 5516
+"/home/public/cs212/input/index/gutenberg/11.txt", 5, 28662
+"/home/public/cs212/input/index/gutenberg/98.txt", 5, 139738
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 4, 15
+
+7
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 49, 381
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 33, 250
+"/home/public/cs212/input/index/gutenberg/4300.txt", 31, 81658
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 28, 198
+"/home/public/cs212/input/index/gutenberg/1322.txt", 23, 3746
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 20, 175
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 18, 244
+"/home/public/cs212/input/index/gutenberg/2701.txt", 17, 16904
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 10, 177
+"/home/public/cs212/input/index/gutenberg/1661.txt", 9, 10133
+"/home/public/cs212/input/index/gutenberg/1342.txt", 4, 7880
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 3, 2126
+"/home/public/cs212/input/index/gutenberg/11.txt", 3, 28471
+"/home/public/cs212/input/index/gutenberg/98.txt", 3, 139547
+
+8
+"/home/public/cs212/input/index/gutenberg/4300.txt", 50, 84
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 43, 396
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 29, 523
+"/home/public/cs212/input/index/gutenberg/1661.txt", 24, 88
+"/home/public/cs212/input/index/gutenberg/2701.txt", 23, 182
+"/home/public/cs212/input/index/gutenberg/1322.txt", 22, 3986
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 17, 339
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 16, 429
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 13, 314
+"/home/public/cs212/input/index/gutenberg/1342.txt", 8, 9888
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 7, 186
+"/home/public/cs212/input/index/gutenberg/11.txt", 7, 27888
+"/home/public/cs212/input/index/gutenberg/98.txt", 7, 138964
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 3, 3175
+
+9
+"/home/public/cs212/input/index/gutenberg/4300.txt", 37, 23371
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 19, 422
+"/home/public/cs212/input/index/gutenberg/2701.txt", 18, 184
+"/home/public/cs212/input/index/gutenberg/1322.txt", 18, 4067
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 13, 326
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 12, 351
+"/home/public/cs212/input/index/gutenberg/98.txt", 11, 81
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 11, 130
+"/home/public/cs212/input/index/gutenberg/1661.txt", 10, 12811
+"/home/public/cs212/input/index/gutenberg/1342.txt", 7, 11831
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 6, 380
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 6, 554
+"/home/public/cs212/input/index/gutenberg/11.txt", 6, 28498
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 2, 3193
+
+0 1
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 456, 22
+"/home/public/cs212/input/index/gutenberg/4300.txt", 412, 65
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 273, 20
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 235, 68
+"/home/public/cs212/input/index/gutenberg/2701.txt", 173, 1706
+"/home/public/cs212/input/index/gutenberg/1322.txt", 164, 72
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 135, 23
+"/home/public/cs212/input/index/gutenberg/1661.txt", 114, 73
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 98, 14
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 96, 21
+"/home/public/cs212/input/index/gutenberg/1342.txt", 68, 72
+"/home/public/cs212/input/index/gutenberg/11.txt", 55, 74
+"/home/public/cs212/input/index/gutenberg/98.txt", 53, 79
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 18, 13
+"/home/public/cs212/input/index/simple/digits.txt", 3, 1
+
+2 3
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 681, 21
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 528, 9
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 343, 19
+"/home/public/cs212/input/index/gutenberg/4300.txt", 240, 66
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 220, 22
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 191, 20
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 170, 26
+"/home/public/cs212/input/index/gutenberg/1322.txt", 112, 69
+"/home/public/cs212/input/index/gutenberg/2701.txt", 68, 73
+"/home/public/cs212/input/index/gutenberg/1661.txt", 54, 74
+"/home/public/cs212/input/index/gutenberg/1342.txt", 44, 69
+"/home/public/cs212/input/index/gutenberg/98.txt", 23, 85
+"/home/public/cs212/input/index/gutenberg/11.txt", 21, 71
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 12, 40
+"/home/public/cs212/input/index/simple/digits.txt", 2, 2
+
+4 5
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 780, 145
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 227, 185
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 200, 120
+"/home/public/cs212/input/index/gutenberg/4300.txt", 140, 68
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 124, 316
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 123, 18
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 105, 175
+"/home/public/cs212/input/index/gutenberg/1322.txt", 72, 3182
+"/home/public/cs212/input/index/gutenberg/2701.txt", 51, 1745
+"/home/public/cs212/input/index/gutenberg/1342.txt", 37, 3474
+"/home/public/cs212/input/index/gutenberg/1661.txt", 31, 8034
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 17, 9
+"/home/public/cs212/input/index/gutenberg/11.txt", 14, 28575
+"/home/public/cs212/input/index/gutenberg/98.txt", 14, 139651
+
+6 7
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 183, 12
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 104, 11
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 104, 12
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 97, 11
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 83, 11
+"/home/public/cs212/input/index/gutenberg/4300.txt", 73, 81658
+"/home/public/cs212/input/index/gutenberg/1322.txt", 49, 3414
+"/home/public/cs212/input/index/gutenberg/2701.txt", 34, 16069
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 28, 124
+"/home/public/cs212/input/index/gutenberg/1661.txt", 22, 10133
+"/home/public/cs212/input/index/gutenberg/1342.txt", 13, 5516
+"/home/public/cs212/input/index/gutenberg/11.txt", 8, 28471
+"/home/public/cs212/input/index/gutenberg/98.txt", 8, 139547
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 7, 15
+
+8 9
+"/home/public/cs212/input/index/gutenberg/4300.txt", 87, 84
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 62, 396
+"/home/public/cs212/input/index/gutenberg/2701.txt", 41, 182
+"/home/public/cs212/input/index/gutenberg/1322.txt", 40, 3986
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 35, 523
+"/home/public/cs212/input/index/gutenberg/1661.txt", 34, 88
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 29, 339
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 26, 314
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 22, 380
+"/home/public/cs212/input/index/gutenberg/98.txt", 18, 81
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 18, 130
+"/home/public/cs212/input/index/gutenberg/1342.txt", 15, 9888
+"/home/public/cs212/input/index/gutenberg/11.txt", 13, 27888
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 5, 3175
+
+0 1 2 3 4
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 1507, 21
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 860, 9
+"/home/public/cs212/input/index/gutenberg/4300.txt", 728, 65
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 672, 19
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 439, 20
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 424, 22
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 346, 14
+"/home/public/cs212/input/index/gutenberg/1322.txt", 318, 69
+"/home/public/cs212/input/index/gutenberg/2701.txt", 266, 73
+"/home/public/cs212/input/index/gutenberg/1661.txt", 188, 73
+"/home/public/cs212/input/index/gutenberg/1342.txt", 130, 69
+"/home/public/cs212/input/index/gutenberg/11.txt", 82, 71
+"/home/public/cs212/input/index/gutenberg/98.txt", 82, 79
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 44, 9
+"/home/public/cs212/input/index/simple/digits.txt", 5, 1
+
+5 6 7 8 9
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 619, 12
+"/home/public/cs212/input/index/gutenberg/4300.txt", 224, 84
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 215, 11
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 194, 11
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 194, 12
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 157, 11
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 149, 124
+"/home/public/cs212/input/index/gutenberg/1322.txt", 119, 3279
+"/home/public/cs212/input/index/gutenberg/2701.txt", 101, 182
+"/home/public/cs212/input/index/gutenberg/1661.txt", 67, 88
+"/home/public/cs212/input/index/gutenberg/1342.txt", 47, 4545
+"/home/public/cs212/input/index/gutenberg/98.txt", 34, 81
+"/home/public/cs212/input/index/gutenberg/11.txt", 29, 27888
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 15, 15
+
+0 1 2 3 4 5 6 7 8 9
+"/home/public/cs212/input/index/rfcs/rfc6819.txt", 2126, 12
+"/home/public/cs212/input/index/rfcs/rfc3031.txt", 1009, 9
+"/home/public/cs212/input/index/gutenberg/4300.txt", 952, 65
+"/home/public/cs212/input/index/rfcs/rfc6797.txt", 887, 11
+"/home/public/cs212/input/index/rfcs/rfc6841.txt", 633, 11
+"/home/public/cs212/input/index/rfcs/rfc6805.txt", 618, 12
+"/home/public/cs212/input/index/rfcs/rfc6838.txt", 503, 11
+"/home/public/cs212/input/index/gutenberg/1322.txt", 437, 69
+"/home/public/cs212/input/index/gutenberg/2701.txt", 367, 73
+"/home/public/cs212/input/index/gutenberg/1661.txt", 255, 73
+"/home/public/cs212/input/index/gutenberg/1342.txt", 177, 69
+"/home/public/cs212/input/index/gutenberg/98.txt", 116, 79
+"/home/public/cs212/input/index/gutenberg/11.txt", 111, 71
+"/home/public/cs212/input/index/rfcs/rfc475.txt", 59, 9
+"/home/public/cs212/input/index/simple/digits.txt", 5, 1
+

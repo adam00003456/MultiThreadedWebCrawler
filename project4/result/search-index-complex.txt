@@ -1,0 +1,2904 @@
+40 14 24 34 44 54
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 52, 478
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 26, 19926
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 22, 213
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 18, 532
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 13, 181
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 11, 69
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 10, 4208
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 7, 605
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 6, 422
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 6, 19792
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6, 33050
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1, 13
+
+s t u v w x
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 83359, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 76066, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 44228, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 41148, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 37344, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 34414, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 10701, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 6768, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 5898, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 4272, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2886, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2209, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1829, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 978, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+ha he hi ho hu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 20269, 132
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 13921, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 11809, 195
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 10608, 132
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 8591, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4857, 126
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1618, 119
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 462, 201
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 443, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 208, 25
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 182, 202
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 106, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 84, 71
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 82, 147
+
+ia ie ii io iu
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 116, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 36, 2930
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 30, 356
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 17, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 14, 146
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 13, 2785
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 11, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 11, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 9, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 8, 126
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3, 2413
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2, 2309
+
+xa xe xi xo xu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 18, 220
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5, 43522
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 5, 43789
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 4, 182
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2, 23309
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2, 74927
+
+aa ee ii oo uu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 48, 15056
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 37, 13266
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 16, 2309
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 12, 146
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 11, 2785
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 7, 126
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 4, 8898
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1, 7899
+
+a b c d e
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 66632, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 54494, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 34723, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 32602, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 32433, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 25599, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 7443, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 6531, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 5366, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 3752, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 3335, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2401, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2303, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 858, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 8
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+p q r
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 16215, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 11140, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 7176, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 7004, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 6062, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 5262, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 2619, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1853, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1609, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1555, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1269, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1168, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 917, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 235, 6
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 10
+
+2 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 681, 21
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 528, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 343, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 240, 66
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 220, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 191, 20
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 170, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 112, 69
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 68, 73
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 54, 74
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 44, 69
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 23, 85
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 21, 71
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 12, 40
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 2, 2
+
+za zb zc zd ze zf zg zh zi zj zk zl zm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 41, 7327
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 16, 7200
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 12, 4027
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 8, 4165
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6, 19741
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4, 18469
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3, 843
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3, 34544
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 2, 12116
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1, 3699
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1, 5536
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1, 123011
+
+z
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 166, 1710
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 71, 61
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 35, 7200
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 13, 967
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 11, 3286
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 10, 7357
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6, 19741
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3, 843
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3, 12116
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3, 34544
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1, 3699
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1, 123011
+
+a b
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 41691, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 35678, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 22063, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 20154, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 19586, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 16393, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 4855, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 3852, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3354, 16
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 2017, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1619, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1465, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1204, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 518, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+p
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 9606, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 6398, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4106, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3949, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3303, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2795, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1269, 43
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1061, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 785, 24
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 750, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 566, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 535, 32
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 474, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 98, 23
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 10
+
+on oo op oq or os ot ou ov ow ox oy oz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 7622, 35
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 6019, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3814, 37
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3614, 39
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2843, 37
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2716, 38
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 914, 37
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 626, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 580, 119
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 371, 48
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 271, 62
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 270, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 252, 48
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 97, 38
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 21
+
+xn xo xp xq xr xs xt xu xv xw xx xy xz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 20, 243
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 19, 52128
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2, 29748
+
+ya ye yi yo yu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 3836, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2790, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2607, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2504, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2491, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2398, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 634, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 10, 280
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 5, 234
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 4, 211
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 3, 286
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3, 2709
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1, 417
+
+q r
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 6609, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4742, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3227, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2898, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2759, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2467, 29
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1350, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1068, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 805, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 795, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 602, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 548, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 382, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 137, 6
+
+6 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 183, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 104, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 104, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 97, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 83, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 73, 81658
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 49, 3414
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 34, 16069
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 28, 124
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 22, 10133
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 13, 5516
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 8, 28471
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 8, 139547
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 7, 15
+
+ta tb tc td te tf tg th ti tj tk tl tm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 28664, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 28343, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 17036, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 15877, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 11512, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 11146, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3635, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 2189, 34
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2151, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1258, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1022, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 917, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 700, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 385, 22
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 3
+
+r
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 5860, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4019, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2917, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2764, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2507, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2185, 29
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1337, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1058, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 787, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 619, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 592, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 513, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 370, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 133, 6
+
+e f g h
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 42022, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 30343, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 21693, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 20273, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 16130, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 15839, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3741, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 2019, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1980, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1562, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 954, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 796, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 649, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 358, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 7
+
+nn no np nq nr ns nt nu nv nw nx ny nz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 3264, 24
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 3148, 20
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2579, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2215, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2161, 24
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1635, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 441, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 359, 85
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 255, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 168, 74
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 162, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 144, 152
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 48, 114
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 46, 134
+
+p q r s t
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 78187, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 67821, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 39093, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 38593, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 32132, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 29019, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 9537, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 7237, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 7085, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 4318, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 3667, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 3539, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2474, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 987, 6
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 6, 3
+
+wa wb wc wd we wf wg wh wi wj wk wl wm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 14515, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 13393, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 8566, 27
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 8231, 25
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 7362, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 6093, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1731, 25
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 663, 431
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 427, 238
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 399, 42
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 211, 215
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 141, 101
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 137, 71
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 65, 51
+
+k
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 2106, 163
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 979, 249
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 876, 244
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 684, 134
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 564, 154
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 564, 506
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 269, 562
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 144, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 96, 583
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 85, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 57, 1041
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 34, 868
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 23, 16
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 10, 624
+
+vn vo vp vq vr vs vt vu vv vw vx vy vz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 370, 494
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 271, 1527
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 211, 322
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 132, 2262
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 64, 180
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 61, 2765
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 57, 107
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 56, 100
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 20, 417
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 10, 4459
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 8, 3494
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 5, 505
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 3, 1803
+
+5 6 7 8 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 619, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 224, 84
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 215, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 194, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 194, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 157, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 149, 124
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 119, 3279
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 101, 182
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 67, 88
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 47, 4545
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 34, 81
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 29, 27888
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 15, 15
+
+yn yo yp yq yr ys yt yu yv yw yx yy yz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 2972, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2236, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2157, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2135, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2065, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1423, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 576, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 3, 280
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2, 234
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1, 211
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1, 286
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1, 417
+
+ka kb kc kd ke kf kg kh ki kj kk kl km
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1243, 163
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 512, 364
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 295, 498
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 269, 1159
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 215, 154
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 213, 506
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 144, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 131, 562
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 43, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 39, 1041
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 17, 692
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 8, 16
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 7, 868
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 4, 988
+
+tn to tp tq tr ts tt tu tv tw tx ty tz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 9282, 186
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 7350, 118
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5448, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 5339, 112
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3999, 151
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3864, 131
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1266, 123
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1264, 78
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1103, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 728, 34
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 560, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 398, 34
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 289, 43
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 114, 48
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 2
+
+0 1 2 3 4 5 6 7 8 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2126, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1009, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 952, 65
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 887, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 633, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 618, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 503, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 437, 69
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 367, 73
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 255, 73
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 177, 69
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 116, 79
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 111, 71
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 59, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 5, 1
+
+l
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 8683, 46
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 6261, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 4241, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4173, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3147, 48
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2809, 49
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1663, 29
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 888, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 360, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 172, 250
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 145, 51
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 132, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 120, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 62, 151
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+pn po pp pq pr ps pt pu pv pw px py pz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 4509, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2909, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2077, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1808, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1558, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1448, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 539, 43
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 433, 66
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 401, 76
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 381, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 362, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 306, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 166, 67
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 74, 49
+
+0 1 2 3 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1507, 21
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 860, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 728, 65
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 672, 19
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 439, 20
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 424, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 346, 14
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 318, 69
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 266, 73
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 188, 73
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 130, 69
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 82, 71
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 82, 79
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 44, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 5, 1
+
+2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 464, 21
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 268, 27
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 242, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 165, 66
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 163, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 132, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 120, 20
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 60, 69
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 38, 74
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 31, 74
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 21, 69
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 12, 85
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 9, 71
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 6, 40
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 2
+
+qn qo qp qq qr qs qt qu qv qw qx qy qz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 745, 418
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 723, 237
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 310, 505
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 282, 410
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 252, 756
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 186, 293
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 134, 2553
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 33, 688
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 13, 3997
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 12, 4050
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 10, 3790
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 9, 3457
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 8, 1662
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 4, 727
+
+3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 260, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 217, 311
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 101, 360
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 75, 19926
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 71, 335
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 57, 480
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 52, 3121
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 38, 275
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 30, 73
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 23, 1766
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 23, 13331
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 12, 112
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 11, 139577
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 6, 837
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 3
+
+o
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 18131, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 14530, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 9539, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 8537, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 7332, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6092, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1741, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1628, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1088, 33
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 710, 48
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 687, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 640, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 592, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 155, 27
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 1, 1
+
+dn do dp dq dr ds dt du dv dw dx dy dz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 3821, 126
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2227, 172
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2066, 281
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1569, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1338, 1277
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1042, 231
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 568, 116
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 449, 19
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 242, 31
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 217, 37
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 191, 124
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 114, 40
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 79, 41
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 28, 266
+
+w
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 16914, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 14997, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 9900, 27
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 9294, 25
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 8300, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 7334, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2087, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 719, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 477, 168
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 473, 42
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 232, 145
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 160, 101
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 152, 45
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 71, 2
+
+xa xb xc xd xe xf xg xh xi xj xk xl xm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 18, 220
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 9, 438
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 8, 22266
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5, 43522
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 4, 182
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 2, 2459
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2, 23309
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2, 74927
+
+k l
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 10789, 46
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 7240, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5117, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4737, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3831, 48
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3373, 49
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1697, 29
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1157, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 417, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 276, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 268, 250
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 230, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 143, 16
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 72, 151
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+bn bo bp bq br bs bt bu bv bw bx by bz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 6135, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 6044, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2527, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2525, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2260, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1996, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 426, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 263, 117
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 262, 407
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 173, 170
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 151, 90
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 114, 104
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 64, 64
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 42, 95
+
+50 15 25 35 45 55
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 41, 19929
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 29, 239
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 22, 78
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 18, 499
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 17, 386
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 15, 5440
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 14, 8035
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 12, 18602
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 6, 71
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 6, 427
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 6, 620
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 6, 699
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5, 141028
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 2, 1852
+
+a b c
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 53191, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 44330, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 27329, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 25053, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 24403, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 20644, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 5928, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 5380, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3952, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 2752, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2298, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1877, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1617, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 695, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+c d
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 20040, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 14690, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 10216, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 10157, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 8856, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 7322, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2071, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2052, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1411, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1351, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1258, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 846, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 689, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 291, 8
+
+an ao ap aq ar as at au av aw ax ay az
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 14581, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 13595, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 10048, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 9367, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 8440, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6792, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2089, 35
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1957, 19
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1295, 31
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 999, 52
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 717, 27
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 609, 33
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 606, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 219, 18
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 8, 1
+
+a b c d e f g h i
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 119753, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 95547, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 63756, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 58008, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 54108, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 49314, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 12836, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 8716, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 8533, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 6321, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 4780, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 3771, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 3189, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1420, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+ga ge gi go gu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 4517, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2345, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1632, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1448, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1380, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1224, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 466, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 87, 41
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 65, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 60, 1077
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 45, 841
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 38, 881
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 19, 952
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 11, 52
+
+d
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 8540, 63
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 6038, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5340, 67
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 4950, 13
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3957, 67
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3071, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 998, 69
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 813, 37
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 672, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 524, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 523, 38
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 433, 31
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 277, 41
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 114, 11
+
+w x
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 16934, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 15002, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 9942, 27
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 9294, 25
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 8306, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 7359, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2090, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 843, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 484, 168
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 479, 42
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 252, 145
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 162, 101
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 155, 45
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 72, 2
+
+b
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 14465, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 11413, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 6185, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5967, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5470, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 4618, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1083, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 927, 137
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 681, 47
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 415, 70
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 404, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 352, 25
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 201, 64
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 134, 5
+
+y z
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 4024, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2800, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2644, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2510, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2494, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2399, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 637, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 74, 61
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 22, 280
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 18, 2709
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 16, 417
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 6, 234
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 5, 211
+
+u v
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 4453, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4383, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2369, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2351, 18
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2200, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1980, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 900, 371
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 643, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 629, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 589, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 236, 53
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 154, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 117, 94
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 117, 505
+
+0 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 456, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 412, 65
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 273, 20
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 235, 68
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 173, 1706
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 164, 72
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 135, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 114, 73
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 98, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 96, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 68, 72
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 55, 74
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 53, 79
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 18, 13
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 3, 1
+
+en eo ep eq er es et eu ev ew ex ey ez
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 3102, 79
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2905, 87
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2091, 83
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1732, 100
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1677, 78
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1341, 83
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 440, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 364, 204
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 329, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 296, 85
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 248, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 192, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 188, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 26, 94
+
+j k l m n o p q r
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 64738, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 47291, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 31325, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 31016, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 28146, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 22735, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 7034, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 6249, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 4694, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 3106, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 3012, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2913, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2206, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 906, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 410, 145
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 103, 163
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 75, 185
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 64, 78711
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 55, 316
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 49, 175
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 45, 122
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 30, 3279
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 26, 1745
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 19, 4545
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 11, 8034
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 8, 28613
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 8, 139689
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 3, 1110
+
+na nb nc nd ne nf ng nh ni nj nk nl nm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 2489, 368
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1653, 250
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1126, 178
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1078, 152
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 925, 150
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 725, 59
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 308, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 199, 294
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 181, 375
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 147, 300
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 108, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 77, 66
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 62, 2116
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 45, 480
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+
+cn co cp cq cr cs ct cu cv cw cx cy cz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 6026, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4453, 25
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2953, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2693, 25
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2419, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2196, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 725, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 556, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 452, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 422, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 309, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 278, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 247, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 115, 8
+
+o p q r s t u
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 99024, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 85085, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 49523, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 49253, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 40548, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 36662, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 11604, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 9575, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 8547, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 5548, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 4423, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 4305, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 3199, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1280, 6
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 8, 3
+
+a b c d e f g
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 83324, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 66752, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 42154, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 40698, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 38662, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 31220, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 9038, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 7194, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 6282, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 4319, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 3739, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2829, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2614, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1083, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+e
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 4901, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4126, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3423, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2859, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2444, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1884, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 627, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 601, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 517, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 477, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 365, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 253, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 247, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 49, 94
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 8
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 7
+
+s
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 23673, 81
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 20376, 89
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 10679, 80
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 10365, 68
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 9573, 85
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 8148, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2863, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1954, 36
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1322, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1170, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 744, 35
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 567, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 507, 39
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 253, 21
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 6
+
+g h i
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 42710, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 32491, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 23965, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 21275, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 19795, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 15855, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 4487, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 2345, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 2098, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1730, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1105, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1001, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 631, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 359, 3
+
+c
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 11500, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 8652, 25
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5266, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 4899, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4817, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 4251, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1528, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1073, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 735, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 679, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 598, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 413, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 412, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 177, 8
+
+1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 358, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 356, 65
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 262, 20
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 230, 68
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 162, 72
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 151, 1706
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 134, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 108, 73
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 96, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 96, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 67, 72
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 53, 74
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 52, 79
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 18, 13
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 3, 1
+
+q r s t
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 68581, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 61423, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 35144, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 34487, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 28829, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 26224, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 8787, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 6452, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 5816, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 3752, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 3193, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2478, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1939, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 889, 6
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+x
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 124, 1154
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 42, 216
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 25, 41947
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 20, 322
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 20, 22266
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 7, 1293
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6, 175
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 6, 2459
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 5, 29748
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 3, 698
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3, 21207
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2, 10393
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1, 3244
+
+ea ee ei eo eu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 730, 3534
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 652, 140
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 556, 433
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 323, 968
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 291, 667
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 242, 426
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 93, 955
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 85, 336
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 47, 494
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 42, 87
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 26, 892
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 22, 603
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 21, 1016
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 2, 2848
+
+8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 50, 84
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 43, 396
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 29, 523
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 24, 88
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 23, 182
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 22, 3986
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 17, 339
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 16, 429
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 13, 314
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 8, 9888
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 7, 186
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 7, 27888
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 7, 138964
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 3, 3175
+
+d e f
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 23852, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 18726, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 13850, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 12462, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 11680, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 8875, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2421, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 2236, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1606, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1471, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1377, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 941, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 893, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 366, 7
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 7
+
+jn jo jp jq jr js jt ju jv jw jx jy jz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1101, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 525, 84
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 407, 481
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 254, 109
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 252, 75
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 236, 118
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 116, 70
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 16, 5102
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 13, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 12, 7458
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 11, 1914
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 10, 3939
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 6, 1700
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 5, 4072
+
+hn ho hp hq hr hs ht hu hv hw hx hy hz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 2579, 256
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1996, 322
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1486, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1267, 195
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1151, 132
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1119, 605
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 836, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 237, 119
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 235, 201
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 87, 25
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 42, 197
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 36, 55
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 32, 169
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 25, 202
+
+za ze zi zo zu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 160, 1710
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 71, 61
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 35, 7200
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 10, 7357
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 9, 4165
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6, 19741
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3, 843
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3, 12116
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3, 34544
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2, 967
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1, 3699
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1, 123011
+
+ta te ti to tu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 10347, 41
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 8342, 45
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 5858, 43
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5839, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4196, 43
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 4190, 44
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1444, 43
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1178, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 944, 57
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 423, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 378, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 346, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 272, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 150, 79
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 1, 10
+
+4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 370, 259
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 152, 311
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 97, 120
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 78, 18
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 76, 68
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 69, 442
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 56, 305
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 42, 3182
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 25, 2416
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 20, 10086
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 18, 3474
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 14, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 6, 28575
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 6, 139651
+
+ha hb hc hd he hf hg hh hi hj hk hl hm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 17808, 132
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 11960, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 10551, 214
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 9470, 146
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 7133, 129
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3763, 126
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1392, 130
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 227, 323
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 181, 107
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 159, 234
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 136, 100
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 83, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 52, 71
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 43, 147
+
+i j
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 17931, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 15699, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 10276, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 9809, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 9300, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 8998, 14
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2292, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1871, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1351, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1069, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 883, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 879, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 523, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 259, 44
+
+a b c d e f g h
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 103753, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 80711, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 53972, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 49283, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 45582, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 39845, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 10667, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 7466, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 6745, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 5294, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 3924, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2950, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2699, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1167, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+o p
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 27737, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 20928, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 13645, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 12486, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 10635, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 8887, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2491, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2413, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 2357, 33
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1748, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1276, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1175, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1066, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 253, 23
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 1, 1
+
+kn ko kp kq kr ks kt ku kv kw kx ky kz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 843, 626
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 581, 244
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 467, 249
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 415, 134
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 349, 328
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 330, 627
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 138, 708
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 79, 583
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 41, 107
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 22, 1231
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 16, 1911
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 14, 662
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 6, 624
+
+j k l
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 12720, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 8103, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5609, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5209, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 4406, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3713, 49
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1780, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1280, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 518, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 310, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 309, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 257, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 201, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 78, 151
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+ba bb bc bd be bf bg bh bi bj bk bl bm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 8364, 110
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 5275, 289
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3921, 126
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3436, 379
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2942, 287
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2613, 158
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 654, 122
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 628, 137
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 416, 47
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 287, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 241, 70
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 198, 25
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 132, 95
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 92, 5
+
+k l m n o p q r s t
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 124779, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 103109, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 62442, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 62441, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 53641, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 46152, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 14108, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 11417, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 9977, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 6120, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 5253, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 5009, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 3730, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1652, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 13, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 13, 3
+
+a b c d e f g h i j
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 121684, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 96410, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 64248, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 58583, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 54580, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 49654, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 12959, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 8817, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 8616, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 6363, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 4807, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 3829, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 3222, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1426, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+ca ce ci co cu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 8136, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 6153, 25
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 4033, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3646, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3324, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3082, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 851, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 786, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 645, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 515, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 511, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 327, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 320, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 155, 8
+
+8 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 87, 84
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 62, 396
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 41, 182
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 40, 3986
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 35, 523
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 34, 88
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 29, 339
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 26, 314
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 22, 380
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 18, 81
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 18, 130
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 15, 9888
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 13, 27888
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 5, 3175
+
+e f
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 15312, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 12688, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 8510, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 7723, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 7512, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 5804, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1423, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1423, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1082, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 948, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 705, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 616, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 508, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 252, 7
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 7
+
+0
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 98, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 56, 155064
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 22, 44633
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 11, 3273
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6, 15500
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 5, 4245
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2, 113
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2, 10046
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2, 91112
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1, 10659
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1, 125720
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1, 141256
+
+v
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1747, 494
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1649, 136
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 896, 100
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 809, 107
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 800, 107
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 746, 159
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 303, 125
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 215, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 190, 1007
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 123, 49
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 72, 309
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 38, 110
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 32, 505
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 16, 82
+
+gn go gp gq gr gs gt gu gv gw gx gy gz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 3452, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2233, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1583, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1505, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1049, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 948, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 478, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 93, 122
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 26, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 18, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 17, 109
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 13, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 13, 293
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 11, 162
+
+sa se si so su
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 10861, 81
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 10015, 89
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5332, 102
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5312, 80
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 5283, 85
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 4337, 85
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1552, 87
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1379, 36
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 807, 33
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 585, 52
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 377, 118
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 362, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 338, 39
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 160, 80
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 6
+
+ua ub uc ud ue uf ug uh ui uj uk ul um
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 156, 1013
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 87, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 38, 1891
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 12, 6901
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 10, 18060
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 8, 4778
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 7, 13652
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 4, 2729
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 4, 10708
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 4, 62234
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1, 12289
+
+q r s t u v w x
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 89968, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 80808, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 47455, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 44046, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 40103, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 36881, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 11506, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 7836, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 7248, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 4874, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 3681, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2757, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2211, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1115, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+s t
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 61972, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 56681, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 31917, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 31589, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 26070, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 23757, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 7982, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 5384, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 4466, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 3150, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2398, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1930, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1557, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 752, 21
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+g h
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 26710, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 17655, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 14181, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 12550, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 10326, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 7329, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2318, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1071, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 557, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 480, 25
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 249, 45
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 180, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 141, 147
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 106, 3
+
+ca cb cc cd ce cf cg ch ci cj ck cl cm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 5370, 80
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4193, 88
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2566, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2393, 79
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2044, 84
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1941, 84
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 798, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 511, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 313, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 276, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 256, 16
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 163, 19
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 100, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 62, 99
+
+h
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 20429, 132
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 13959, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 11818, 195
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 10621, 132
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 8625, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4884, 126
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1629, 119
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 975, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 463, 201
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 272, 25
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 185, 202
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 121, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 85, 147
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 84, 71
+
+ga gb gc gd ge gf gg gh gi gj gk gl gm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 2806, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1462, 36
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 880, 34
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 857, 34
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 857, 36
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 750, 35
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 211, 34
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 56, 68
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 54, 1077
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 52, 41
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 35, 841
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 33, 1030
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 24, 45
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 7, 52
+
+zn zo zp zq zr zs zt zu zv zw zx zy zz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 124, 1710
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 70, 61
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 19, 15624
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 6, 7357
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1, 967
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1, 13002
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1, 17886
+
+rn ro rp rq rr rs rt ru rv rw rx ry rz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1673, 176
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1134, 328
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 671, 720
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 637, 285
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 622, 791
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 512, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 314, 1628
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 121, 1210
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 79, 49
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 40, 1368
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 27, 863
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 17, 1271
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 11, 1014
+
+ln lo lp lq lr ls lt lu lv lw lx ly lz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 2472, 234
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1695, 284
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1590, 255
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1350, 124
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1019, 214
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 713, 244
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 565, 148
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 234, 309
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 162, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 43, 593
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 42, 54
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 30, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 29, 151
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 12, 732
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 14
+
+70 17 27 37 47 57
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 32, 266
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 29, 76
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 27, 81
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 21, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 13, 20
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 10, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 10, 27
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 9, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 8, 5627
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6, 10231
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 5, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5, 97
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 5, 26037
+
+ra re ri ro ru
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 5775, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4010, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2916, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2733, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2507, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2170, 29
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 947, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 902, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 643, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 619, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 417, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 376, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 311, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 116, 6
+
+wa we wi wo wu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 12369, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 9133, 27
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 7394, 27
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 6842, 25
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 5822, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5407, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1523, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 372, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 361, 238
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 344, 42
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 155, 215
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 108, 421
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 68, 79
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 46, 2
+
+ua ue ui uo uu
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 156, 1013
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 5, 7171
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 4, 2729
+
+mn mo mp mq mr ms mt mu mv mw mx my mz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 5262, 105
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3641, 125
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 3404, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2886, 200
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2717, 104
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2462, 140
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 448, 248
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 426, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 102, 43
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 100, 34
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 93, 295
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 86, 226
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 53, 301
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 24, 25
+
+a b c d
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 61731, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 50368, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 32279, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 29743, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 29010, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 23715, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 6926, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 5904, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 4765, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 3275, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2970, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2154, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2050, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 809, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+pa pe pi po pu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 6388, 62
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4136, 75
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2592, 66
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2295, 82
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1801, 66
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1779, 70
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 837, 153
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 502, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 460, 68
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 408, 82
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 343, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 277, 32
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 221, 96
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 35, 23
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 18
+
+f
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 10411, 13
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 8562, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5651, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5068, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 4300, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3920, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 906, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 822, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 471, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 455, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 369, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 340, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 255, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 203, 7
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 4
+
+g
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 6281, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 3696, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2445, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2363, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1929, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1701, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 689, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 208, 41
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 96, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 94, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 64, 45
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 59, 109
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 56, 162
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 22, 3
+
+20 12 22 32 42 52
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 124, 19
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 113, 21
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 93, 27
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 76, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 65, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 48, 66
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 41, 20
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 25, 74
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 18, 70
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 16, 74
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 11, 70
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 5, 72
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5, 86
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 2, 4
+
+aa ae ai ao au
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 619, 188
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 336, 59
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 272, 67
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 222, 63
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 149, 11
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 145, 73
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 116, 240
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 59, 66
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 36, 234
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 27, 371
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 23, 165
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 21, 65
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 14, 854
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 10, 1241
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+
+la le li lo lu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 8248, 46
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 6110, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 4172, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4138, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2974, 48
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2748, 49
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1117, 29
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 823, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 359, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 167, 250
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 121, 51
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 118, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 103, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 61, 151
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 14
+
+m n o
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 35803, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 28048, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 19112, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 18231, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 17678, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 13760, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3414, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 2635, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2323, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1534, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1443, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1240, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 980, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 593, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 5
+
+ma me mi mo mu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 9777, 29
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 7766, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5066, 33
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4952, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 4897, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3823, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 903, 31
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 600, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 544, 33
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 456, 34
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 374, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 288, 56
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 273, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 230, 59
+
+qa qb qc qd qe qf qg qh qi qj qk ql qm
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1, 6461
+
+y
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 3858, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2790, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2609, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2504, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2491, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2398, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 634, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 15, 2709
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 11, 280
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 6, 234
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 4, 211
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 3, 286
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 3, 417
+
+u v w x
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 21387, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 19385, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 12311, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 11274, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 10657, 18
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 9559, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2719, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1432, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1384, 168
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1122, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 488, 53
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 279, 94
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 272, 45
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 226, 2
+
+ea eb ec ed ee ef eg eh ei ej ek el em
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1714, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1308, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1169, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1149, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 688, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 515, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 210, 60
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 192, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 114, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 108, 200
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 106, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 51, 147
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 46, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 19, 130
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 8
+
+m n
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 17672, 20
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 13518, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 10346, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 9694, 24
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 9573, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 7668, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1673, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1547, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 851, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 824, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 695, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 553, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 438, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 340, 59
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 5
+
+ya yb yc yd ye yf yg yh yi yj yk yl ym
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1184, 615
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 871, 125
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 554, 159
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 426, 176
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 369, 391
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 241, 369
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 58, 727
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 8, 3385
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3, 2709
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 3, 4056
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 3, 19578
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2, 501
+
+va vb vc vd ve vf vg vh vi vj vk vl vm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1371, 136
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1366, 1502
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 840, 138
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 741, 139
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 608, 164
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 596, 107
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 241, 125
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 176, 1007
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 151, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 103, 49
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 69, 309
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 30, 110
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 27, 543
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 16, 82
+
+oa ob oc od oe of og oh oi oj ok ol om
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 9908, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 8467, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5096, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 4865, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 4484, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3341, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 821, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 738, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 507, 33
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 381, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 332, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 312, 115
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 292, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 57, 27
+
+ka ke ki ko ku
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1249, 163
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 513, 364
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 295, 498
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 269, 1159
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 228, 154
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 211, 506
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 144, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 131, 562
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 45, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 39, 1041
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 16, 692
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 7, 868
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 5, 948
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 2, 988
+
+80 18 28 38 48 58
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 88, 10410
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 36, 2811
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 26, 5701
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 21, 554
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 18, 73
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 17, 264
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 15, 735
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 13, 654
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 9, 18911
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 7, 459
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 4, 85
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3, 30057
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1, 5475
+
+a b c d e f
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 77043, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 63056, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 39791, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 38253, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 36733, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 29519, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 8349, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 6986, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 6188, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 4223, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 3675, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2770, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2558, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1061, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+va ve vi vo vu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1731, 494
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1642, 136
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 896, 100
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 807, 107
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 798, 107
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 740, 164
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 302, 125
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 183, 1007
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 123, 49
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 81, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 69, 309
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 32, 505
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 31, 110
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 16, 82
+
+fa fe fi fo fu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 7709, 13
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 6334, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3985, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3920, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3428, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2917, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 766, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 677, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 401, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 308, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 291, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 255, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 183, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 144, 7
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 4
+
+u v w x y
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 25245, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 21994, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 14802, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 13672, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 13161, 18
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 12349, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3353, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1447, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1390, 168
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1133, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 492, 53
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 282, 94
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 275, 45
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 226, 2
+
+f g h i j
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 55052, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 41916, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 29525, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 26150, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 24055, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 21978, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 5516, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3250, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 2611, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2286, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1472, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1428, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 919, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 568, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 4
+
+ma mb mc md me mf mg mh mi mj mk ml mm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 6457, 29
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 5160, 13
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3555, 33
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3513, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3199, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2839, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 522, 31
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 460, 33
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 399, 35
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 359, 19
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 282, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 260, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 202, 91
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 177, 59
+
+ra rb rc rd re rf rg rh ri rj rk rl rm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 4165, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2885, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2280, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2193, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2142, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1511, 29
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1038, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 774, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 641, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 556, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 498, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 425, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 322, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 133, 6
+
+7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 49, 381
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 33, 250
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 31, 81658
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 28, 198
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 23, 3746
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 20, 175
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 18, 244
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 17, 16904
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 10, 177
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 9, 10133
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 4, 7880
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 3, 2126
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3, 28471
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3, 139547
+
+j
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1931, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 863, 72
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 575, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 492, 78
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 472, 481
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 340, 109
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 123, 70
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 101, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 83, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 58, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 42, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 33, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 27, 1914
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 6, 1700
+
+i j k l
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 28720, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 22939, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 15393, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 13735, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 13182, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 13131, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3568, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3449, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1768, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1337, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1113, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1022, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 799, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 331, 44
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+da de di do du
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 7383, 63
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 5393, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 4457, 13
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3791, 67
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3243, 67
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2678, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 899, 69
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 798, 37
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 648, 19
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 505, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 493, 38
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 270, 41
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 262, 39
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 108, 24
+
+9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 37, 23371
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 19, 422
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 18, 184
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 18, 4067
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 13, 326
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 12, 351
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 11, 81
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 11, 130
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 10, 12811
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 7, 11831
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 6, 380
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 6, 554
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 6, 28498
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 2, 3193
+
+n
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 5650, 20
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4925, 24
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3504, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3342, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3243, 24
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2361, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 693, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 640, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 440, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 303, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 247, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 231, 74
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 154, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 100, 114
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 5
+
+fn fo fp fq fr fs ft fu fv fw fx fy fz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 5530, 13
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4767, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3206, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2811, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2646, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2269, 16
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 578, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 485, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 371, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 308, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 301, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 255, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 212, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 159, 7
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 4
+
+sa sb sc sd se sf sg sh si sj sk sl sm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 11809, 81
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 8976, 89
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 5474, 85
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5044, 102
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 4962, 80
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 4462, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1853, 87
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1426, 36
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 690, 33
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 402, 242
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 310, 39
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 278, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 200, 118
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 147, 61
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 6
+
+un uo up uq ur us ut uu uv uw ux uy uz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2691, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 2597, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1608, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1534, 18
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1380, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1077, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 706, 371
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 373, 83
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 358, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 315, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 164, 53
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 137, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 85, 532
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 75, 94
+
+ja je ji jo ju
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1726, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 859, 72
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 575, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 491, 78
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 472, 481
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 339, 109
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 123, 70
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 87, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 79, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 45, 31
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 33, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 27, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 8, 1914
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 6, 1700
+
+h i j k l m n
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 66821, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 50416, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 36905, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 34098, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 29475, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 28192, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 6751, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 5578, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 3136, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2735, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1994, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1851, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1224, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 853, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 5, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+
+10 11 21 31 41 51
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 63, 38531
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 51, 444
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 40, 149
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 31, 2871
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 29, 339
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 24, 358
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 23, 569
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 23, 21575
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 18, 4141
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 10, 388
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 6, 13581
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 4, 74
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 3, 3211
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1, 87749
+
+30 13 23 33 43 53
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 92, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 37, 68
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 24, 372
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 24, 456
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 16, 592
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 16, 3121
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 15, 72
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 13, 14
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 11, 72
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 7, 411
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 7, 13331
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2, 92
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1, 40
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1, 28994
+
+pa pb pc pd pe pf pg ph pi pj pk pl pm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 4996, 103
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 3487, 213
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2297, 149
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1872, 144
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1744, 195
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1344, 145
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 890, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 676, 55
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 388, 146
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 348, 183
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 165, 160
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 155, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 152, 84
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 24, 23
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 18
+
+s t u
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 64678, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 59415, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 33540, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 32980, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 27154, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 25308, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 8308, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 6094, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 4840, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 3670, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2562, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2009, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1642, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 890, 21
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+ia ib ic id ie if ig ih ii ij ik il im
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1332, 530
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1108, 297
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 907, 244
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 815, 146
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 550, 126
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 532, 244
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 321, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 303, 54
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 237, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 199, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 172, 616
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 98, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 84, 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 57, 44
+
+6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 155, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 86, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 64, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 63, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 55, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 42, 173695
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 26, 3414
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 18, 124
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 17, 16069
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 13, 19818
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 9, 5516
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 5, 28662
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 5, 139738
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 4, 15
+
+da db dc dd de df dg dh di dj dk dl dm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 4569, 63
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 3736, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2914, 67
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2864, 13
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2422, 67
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1488, 71
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 591, 50
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 405, 13
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 400, 69
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 323, 38
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 202, 36
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 195, 42
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 187, 103
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 86, 11
+
+aa ab ac ad ae af ag ah ai aj ak al am
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 6065, 24
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 5871, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3517, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3398, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3031, 28
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2283, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1125, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 660, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 522, 92
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 392, 35
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 232, 39
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 201, 46
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 187, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 97, 53
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+
+m n o p q r
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 52018, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 39188, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 26116, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 25407, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 23740, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 19022, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 5254, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 4969, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 4176, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2849, 9
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2712, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 2702, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1897, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 828, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 5, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+v w x
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 18681, 23
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 16651, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 10688, 27
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 10190, 25
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 9106, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 8168, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2393, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1058, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 674, 168
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 602, 42
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 324, 145
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 200, 101
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 187, 45
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 88, 2
+
+la lb lc ld le lf lg lh li lj lk ll lm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 6156, 46
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4664, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2822, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2546, 50
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 2128, 48
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2092, 49
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1020, 29
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 654, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 197, 136
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 126, 250
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 106, 30
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 102, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 101, 51
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 32, 386
+
+m
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 12022, 29
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 8593, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 6842, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 6451, 33
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 6231, 31
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 5307, 32
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1033, 31
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 854, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 548, 33
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 464, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 384, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 306, 43
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 284, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 240, 59
+
+ja jb jc jd je jf jg jh ji jj jk jl jm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 626, 8
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 334, 72
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 323, 10
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 255, 78
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 85, 1041
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 76, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 66, 26
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 65, 9089
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 38, 31
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 28, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 15, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 7, 529
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 5, 10224
+
+in io ip iq ir is it iu iv iw ix iy iz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 11659, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 11601, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 6979, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 5881, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 5748, 14
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5060, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1454, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1452, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 924, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 775, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 750, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 622, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 403, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 193, 93
+
+wn wo wp wq wr ws wt wu wv ww wx wy wz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 2365, 54
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1603, 58
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1334, 58
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1241, 56
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1061, 56
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 938, 57
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 355, 8
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 64, 198
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 56, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 47, 168
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 21, 145
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 19, 351
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 14, 45
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 6, 2
+
+na ne ni no nu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 5611, 20
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 4916, 24
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3503, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3341, 22
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 3239, 24
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 2360, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 644, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 640, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 428, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 290, 152
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 239, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 230, 74
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 144, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 91, 114
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+
+sn so sp sq sr ss st su sv sw sx sy sz
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 9584, 92
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 9029, 86
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 5108, 83
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 4646, 68
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 3438, 88
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3304, 90
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 791, 90
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 662, 11
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 556, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 518, 35
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 431, 54
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 274, 36
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 182, 52
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 94, 21
+
+qa qe qi qo qu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 745, 418
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 723, 237
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 310, 505
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 282, 410
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 252, 756
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 186, 293
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 134, 2553
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 32, 688
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 13, 3997
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 12, 4050
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 10, 3457
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 10, 3790
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 8, 1662
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 4, 727
+
+g h i j k l
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 55430, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 40594, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 29574, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 25681, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 23508, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 21064, 3
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 5767, 2
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 4125, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 2408, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2248, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1362, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1202, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 940, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 437, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+k l m n o
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 46592, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 35288, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 23849, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 23348, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 21509, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 17133, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 4571, 10
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 4332, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 2740, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1802, 22
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1586, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1470, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1256, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 665, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 7, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+fa fb fc fd fe ff fg fh fi fj fk fl fm
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 4840, 167
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 3782, 245
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 2434, 164
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 2246, 88
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1639, 77
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1638, 136
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 410, 196
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 213, 229
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 163, 101
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 84, 160
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 83, 14
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 67, 137
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 44, 39
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 42, 200
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 5
+
+90 19 29 39 49 59
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 51, 13862
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 24, 278
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 23, 570
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 20, 414
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 19, 470
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 13, 76
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 10, 184
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 9, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 9, 76
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 6, 80
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 5, 666
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 4, 78
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 4, 79
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2, 5785
+
+t
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 38299, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 36305, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 21552, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 20910, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 16497, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 15609, 4
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 5119, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 3430, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3296, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1828, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1654, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1423, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 990, 3
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 499, 22
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 6, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+q
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 749, 418
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 723, 237
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 310, 505
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 282, 410
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 252, 756
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 186, 293
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 134, 2553
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 35, 688
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 13, 3997
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 12, 4050
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 10, 3457
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 10, 3790
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 8, 1662
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 4, 727
+
+m n o p
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 45409, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 34446, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 23218, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 22180, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 20981, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 16555, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 4164, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 3904, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 3108, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 2301, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 2100, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1917, 6
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1515, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 691, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 5, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+4 5
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 780, 145
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 227, 185
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 200, 120
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 140, 68
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 124, 316
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 123, 18
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 105, 175
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 72, 3182
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 51, 1745
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 37, 3474
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 31, 8034
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 17, 9
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 14, 28575
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 14, 139651
+
+a
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 27226, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 24265, 21
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 16096, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 14116, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 13969, 7
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 11775, 5
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 3772, 4
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 3171, 15
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 2427, 16
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1665, 24
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 1204, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 1061, 28
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 1003, 13
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 384, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+i j k l m n o p
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 74129, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 57385, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 37573, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 36953, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 34112, 2
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 29737, 1
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 7613, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 7472, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 4876, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 3437, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 3414, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 2939, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 2314, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1022, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+ba be bi bo bu
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 9487, 104
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 8737, 219
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 5175, 126
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 4533, 119
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 3838, 110
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 3612, 125
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 929, 122
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 677, 137
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 470, 47
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 304, 20
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 264, 70
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 236, 25
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 147, 64
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 94, 62
+
+u
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 2734, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 2706, 6
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1623, 19
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 1551, 18
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 1391, 17
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 1084, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 710, 371
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 520, 23
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 374, 83
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 326, 17
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 164, 53
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 138, 26
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 85, 532
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 79, 94
+
+60 16 26 36 46 56
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 33, 258
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 26, 10057
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 23, 390
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 22, 507
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 15, 1706
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 11, 444
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 11, 5523
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 10, 76
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 9, 69
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 8, 441
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 7, 627
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 1, 3307
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 1, 28919
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 1, 139995
+
+oa oe oi oo ou
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 1510, 159
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 1137, 292
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 643, 364
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 634, 474
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 527, 529
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 280, 375
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 180, 30
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 167, 249
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 29, 298
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 15, 434
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 15, 1221
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 11, 2205
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 7, 2333
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 3, 1022
+
+i
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\4300.txt", 16000, 12
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\2701.txt", 14836, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\98.txt", 9784, 16
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1661.txt", 9469, 15
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1342.txt", 8725, 14
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\1322.txt", 8526, 14
+"C:\Users\Adam\workspace\project4\input\index\gutenberg\11.txt", 2169, 7
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc3031.txt", 1788, 12
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6819.txt", 1250, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6797.txt", 1027, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6805.txt", 856, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6838.txt", 821, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc6841.txt", 490, 1
+"C:\Users\Adam\workspace\project4\input\index\rfcs\rfc475.txt", 253, 44
+

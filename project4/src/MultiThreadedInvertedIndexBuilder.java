@@ -1,0 +1,131 @@
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+public class MultiThreadedInvertedIndexBuilder extends InvertedIndexBuilder {
+
+	private static final Logger logger = LogManager.getLogger(MultiThreadedInvertedIndexBuilder
+			.class.getName());
+	private final WorkQueue workers;
+	private int pending;
+	private final MultiThreadedInvertedIndex multiinvertedIndex;
+
+	/**
+	 * Class will be used to fill the MultiThreadedInvertedIndex with content
+	 * 
+	 * @param index
+	 * @param workers
+	 */
+
+	public MultiThreadedInvertedIndexBuilder(MultiThreadedInvertedIndex index,
+			WorkQueue workers) {
+		this.multiinvertedIndex = index;
+		this.workers = workers;
+		pending = 0;
+	}
+
+	/**
+	 * Helper method, that helps a thread wait until all of the current work is
+	 * done. This is useful for resetting the counters or shutting down the work
+	 * queue.
+	 */
+	public synchronized void finish() {
+		try {
+			while (pending > 0) {
+				this.wait();
+			}
+		} catch (InterruptedException e) {
+			logger.debug("Finish interrupted", e);
+		}
+	}
+
+	/**
+	 * Will shutdown the work queue after all the current pending work is
+	 * finished. Necessary to prevent our code from running forever in the
+	 * background.
+	 */
+	public synchronized void shutdown() {
+		logger.debug("Shutting down");
+		finish();
+		workers.shutdown();
+	}
+
+	/**
+	 * Traverse the path given and given every .txt file, create a new worker
+	 * thread that will go through the file and create a local invertedIndex
+	 * structure.
+	 * 
+	 * @param directory
+	 * @throws IOException
+	 */
+	public void traverse(Path path) throws IOException {
+		try {
+			for (Path file : Files.newDirectoryStream(path)) {
+				if (file.toString().toLowerCase().endsWith(".txt")) {
+					workers.execute(new DirectoryMinion(file));
+				} else if (Files.isDirectory(path))
+					traverse(file);
+			}
+		} catch (IOException e) {
+			System.out.println("Unable to traverse :" + path);
+		}
+	}
+
+	/**
+	 * Handles per-directory parsing. If a subdirectory is encountered, a new
+	 * {@link DirectoryMinion} is created to handle that subdirectory.
+	 */
+	private class DirectoryMinion implements Runnable {
+		private final Path path;
+
+		public DirectoryMinion(Path path) {
+			this.path = path;
+			incrementPending();
+		}
+
+		@Override
+		public void run() {
+			InvertedIndex local = new InvertedIndex();
+			try {
+				buildIndex(local, path);
+			} catch (IOException e) {
+				System.out.println("Bad path    " + path);
+			}
+			multiinvertedIndex.addAll(local);
+			decrementPending();
+		}
+	}
+
+	/**
+	 * Indicates that we now have additional "pending" work to wait for. We need
+	 * this since we can no longer call join() on the threads. (The threads keep
+	 * running forever in the background.)
+	 * 
+	 * We made this a synchronized method in the outer class, since locking on
+	 * the "this" object within an inner class does not work.
+	 */
+	private synchronized void incrementPending() {
+		pending++;
+		
+		//logger.debug("Pending is incremented {}", pending);
+		logger.debug("Pending is incremented {}" +  pending);
+	}
+
+	/**
+	 * Indicates that we now have one less "pending" work, and will notify any
+	 * waiting threads if we no longer have any more pending work left.
+	 */
+	private synchronized void decrementPending() {
+		pending--;
+		logger.debug("Pending is incremented {}" +  pending);
+		//logger.debug("Pending is decremented {}", pending);
+
+		if (pending <= 0) {
+			this.notifyAll();
+		}
+	}
+
+}

@@ -1,0 +1,504 @@
+40 14 24 34 44 54
+
+s t u v w x
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+ha he hi ho hu
+
+ia ie ii io iu
+
+xa xe xi xo xu
+
+aa ee ii oo uu
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+
+a b c d e
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 8
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+p q r
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 10
+
+2 3
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 2, 2
+
+za zb zc zd ze zf zg zh zi zj zk zl zm
+
+z
+
+a b
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+p
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 10
+
+on oo op oq or os ot ou ov ow ox oy oz
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 21
+
+xn xo xp xq xr xs xt xu xv xw xx xy xz
+
+ya ye yi yo yu
+
+q r
+
+6 7
+
+ta tb tc td te tf tg th ti tj tk tl tm
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 3
+
+r
+
+e f g h
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 7
+
+nn no np nq nr ns nt nu nv nw nx ny nz
+
+p q r s t
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 6, 3
+
+wa wb wc wd we wf wg wh wi wj wk wl wm
+
+k
+
+vn vo vp vq vr vs vt vu vv vw vx vy vz
+
+5 6 7 8 9
+
+yn yo yp yq yr ys yt yu yv yw yx yy yz
+
+ka kb kc kd ke kf kg kh ki kj kk kl km
+
+tn to tp tq tr ts tt tu tv tw tx ty tz
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 2
+
+0 1 2 3 4 5 6 7 8 9
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 5, 1
+
+l
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+pn po pp pq pr ps pt pu pv pw px py pz
+
+0 1 2 3 4
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 5, 1
+
+2
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 2
+
+qn qo qp qq qr qs qt qu qv qw qx qy qz
+
+3
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 3
+
+o
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 1, 1
+
+dn do dp dq dr ds dt du dv dw dx dy dz
+
+w
+
+xa xb xc xd xe xf xg xh xi xj xk xl xm
+
+k l
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+bn bo bp bq br bs bt bu bv bw bx by bz
+
+50 15 25 35 45 55
+
+a b c
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+c d
+
+an ao ap aq ar as at au av aw ax ay az
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 8, 1
+
+a b c d e f g h i
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+ga ge gi go gu
+
+d
+
+w x
+
+b
+
+y z
+
+u v
+
+0 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 3, 1
+
+en eo ep eq er es et eu ev ew ex ey ez
+
+j k l m n o p q r
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+5
+
+na nb nc nd ne nf ng nh ni nj nk nl nm
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+
+cn co cp cq cr cs ct cu cv cw cx cy cz
+
+o p q r s t u
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 8, 3
+
+a b c d e f g
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+e
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 8
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 7
+
+s
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 6
+
+g h i
+
+c
+
+1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 3, 1
+
+q r s t
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+x
+
+ea ee ei eo eu
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 8
+
+8
+
+d e f
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 7
+
+jn jo jp jq jr js jt ju jv jw jx jy jz
+
+hn ho hp hq hr hs ht hu hv hw hx hy hz
+
+za ze zi zo zu
+
+ta te ti to tu
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 3
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 1, 10
+
+4
+
+ha hb hc hd he hf hg hh hi hj hk hl hm
+
+i j
+
+a b c d e f g h
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+o p
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 1, 1
+
+kn ko kp kq kr ks kt ku kv kw kx ky kz
+
+j k l
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+ba bb bc bd be bf bg bh bi bj bk bl bm
+
+k l m n o p q r s t
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 13, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 13, 3
+
+a b c d e f g h i j
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+ca ce ci co cu
+
+8 9
+
+e f
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 2, 7
+
+0
+
+v
+
+gn go gp gq gr gs gt gu gv gw gx gy gz
+
+sa se si so su
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 6
+
+ua ub uc ud ue uf ug uh ui uj uk ul um
+
+q r s t u v w x
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+s t
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+g h
+
+ca cb cc cd ce cf cg ch ci cj ck cl cm
+
+h
+
+ga gb gc gd ge gf gg gh gi gj gk gl gm
+
+zn zo zp zq zr zs zt zu zv zw zx zy zz
+
+rn ro rp rq rr rs rt ru rv rw rx ry rz
+
+ln lo lp lq lr ls lt lu lv lw lx ly lz
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 14
+
+70 17 27 37 47 57
+
+ra re ri ro ru
+
+wa we wi wo wu
+
+ua ue ui uo uu
+
+mn mo mp mq mr ms mt mu mv mw mx my mz
+
+a b c d
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+pa pe pi po pu
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 18
+
+f
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 4
+
+g
+
+20 12 22 32 42 52
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 2, 4
+
+aa ae ai ao au
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+
+la le li lo lu
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 14
+
+m n o
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 3, 5
+
+ma me mi mo mu
+
+qa qb qc qd qe qf qg qh qi qj qk ql qm
+
+y
+
+u v w x
+
+ea eb ec ed ee ef eg eh ei ej ek el em
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 8
+
+m n
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 5
+
+ya yb yc yd ye yf yg yh yi yj yk yl ym
+
+va vb vc vd ve vf vg vh vi vj vk vl vm
+
+oa ob oc od oe of og oh oi oj ok ol om
+
+ka ke ki ko ku
+
+80 18 28 38 48 58
+
+a b c d e f
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 11, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 7, 4
+"C:\Users\Adam\workspace\project4\input\index\simple\capitals.txt", 4, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+va ve vi vo vu
+
+fa fe fi fo fu
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 4
+
+u v w x y
+
+f g h i j
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 4
+
+ma mb mc md me mf mg mh mi mj mk ml mm
+
+ra rb rc rd re rf rg rh ri rj rk rl rm
+
+7
+
+j
+
+i j k l
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+da de di do du
+
+9
+
+n
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 5
+
+fn fo fp fq fr fs ft fu fv fw fx fy fz
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 4
+
+sa sb sc sd se sf sg sh si sj sk sl sm
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 4, 6
+
+un uo up uq ur us ut uu uv uw ux uy uz
+
+ja je ji jo ju
+
+h i j k l m n
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 5, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+
+10 11 21 31 41 51
+
+30 13 23 33 43 53
+
+pa pb pc pd pe pf pg ph pi pj pk pl pm
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 1, 18
+
+s t u
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 10, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+ia ib ic id ie if ig ih ii ij ik il im
+
+6
+
+da db dc dd de df dg dh di dj dk dl dm
+
+aa ab ac ad ae af ag ah ai aj ak al am
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+
+m n o p q r
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 5, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+v w x
+
+la lb lc ld le lf lg lh li lj lk ll lm
+
+m
+
+ja jb jc jd je jf jg jh ji jj jk jl jm
+
+in io ip iq ir is it iu iv iw ix iy iz
+
+wn wo wp wq wr ws wt wu wv ww wx wy wz
+
+na ne ni no nu
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 9
+
+sn so sp sq sr ss st su sv sw sx sy sz
+
+qa qe qi qo qu
+
+g h i j k l
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 8
+
+k l m n o
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 7, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+fa fb fc fd fe ff fg fh fi fj fk fl fm
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 2, 5
+
+90 19 29 39 49 59
+
+t
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 6, 2
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 4, 3
+
+q
+
+m n o p
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 5, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+4 5
+
+a
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\a\b\c\d\subdir.txt", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\capital_extension.TXT", 1, 1
+"C:\Users\Adam\workspace\project4\input\index\simple\digits.txt", 1, 5
+
+i j k l m n o p
+"C:\Users\Adam\workspace\project4\input\index\simple\symbols.txt", 9, 5
+"C:\Users\Adam\workspace\project4\input\index\simple\position.txt", 3, 1
+
+ba be bi bo bu
+
+u
+
+60 16 26 36 46 56
+
+oa oe oi oo ou
+
+i
+
