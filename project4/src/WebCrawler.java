@@ -7,14 +7,14 @@ import java.net.Socket;
 import java.net.URL;
 import java.net.UnknownHostException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 
 /**
  * 
@@ -29,14 +29,13 @@ public class WebCrawler {
 	private final MultiThreadedInvertedIndex multiinvertedIndex;
 	private final int PORT = 80;
 	private Set<String> urlchecker = new TreeSet<String>();
-	private final MultiReaderLock queryLock;
 	private String urlstring = "";
 
 	public WebCrawler(MultiThreadedInvertedIndex index, WorkQueue workers) {
 		this.multiinvertedIndex = index;
 		this.workers = workers;
 		pending = 0;
-		queryLock = new MultiReaderLock();
+		new MultiReaderLock();
 
 	}
 
@@ -128,7 +127,6 @@ public class WebCrawler {
 							socket.getOutputStream());
 
 			) {
-				String content = "";
 				HTMLFetcher fetcher = new HTMLFetcher(stringurl);
 				String request = fetcher.craftRequest();
 				System.out.println("HTTP: " + request);

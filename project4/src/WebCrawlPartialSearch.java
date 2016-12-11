@@ -1,4 +1,3 @@
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -13,16 +12,13 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.sql.Timestamp;
-import java.util.Date;
-
 import javax.servlet.ServletException;
-import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
@@ -39,13 +35,10 @@ import org.eclipse.jetty.servlet.ServletHolder;
  */
 public class WebCrawlPartialSearch {
 	private final static Logger logger = LogManager.getLogger(WebCrawlPartialSearch.class.getName());
-	private MultiReaderLock queryLock = new MultiReaderLock();
 	private static LinkedHashMap<String, ArrayList<SearchResult>> querysearchMap;
 	private static MultiThreadedInvertedIndex mi = new MultiThreadedInvertedIndex();
 	private static HashMap<String, Timestamp> cookielist = new HashMap<String, Timestamp>();
 	private static String temp = "";
-	private String queryword = "";
-	private String answer = "";
 	static Timestamp currentTimestamp;
 	static long elapsedTime;
 	static int numberofsearches = 0;
@@ -54,9 +47,9 @@ public class WebCrawlPartialSearch {
 	 * Constructor
 	 */
 	public WebCrawlPartialSearch(MultiThreadedInvertedIndex multiindex) {
-		this.mi = multiindex;
+		WebCrawlPartialSearch.mi = multiindex;
 		//CONTAINS ALL THE SEARCH RESULTS AND SEARCH WORDS
-		this.querysearchMap = new LinkedHashMap<String, ArrayList<SearchResult>>();
+		WebCrawlPartialSearch.querysearchMap = new LinkedHashMap<String, ArrayList<SearchResult>>();
 
 	}
 
@@ -70,7 +63,7 @@ public class WebCrawlPartialSearch {
 	 * @throws IOException
 	 */
 	public void multiinvertedindexsetter(MultiThreadedInvertedIndex multiindex) {
-		this.mi = multiindex;
+		WebCrawlPartialSearch.mi = multiindex;
 	}
 
 	public void protinit(int PORT) {
@@ -91,6 +84,7 @@ public class WebCrawlPartialSearch {
 			server.start();
 		} catch (Exception e) {
 			System.out.println("The server had problems starting.");
+			System.out.println(e.getMessage());
 		}
 		try {
 			server.join();
@@ -120,8 +114,8 @@ public class WebCrawlPartialSearch {
 		return querywordline;
 	}
 
-	public LinkedHashMap getresults() {
-		return this.querysearchMap;
+	public LinkedHashMap<String, ArrayList<SearchResult>> getresults() {
+		return WebCrawlPartialSearch.querysearchMap;
 	}
 
 	public static String History() {
@@ -209,9 +203,6 @@ public class WebCrawlPartialSearch {
 						.getInstance().getTime().getTime());
 				cookielist.put(temp, currentTimestamp);
 				long elapsedTime = System.currentTimeMillis() - startTime;
-				long elapsedSeconds = elapsedTime / 1000;
-				long secondsDisplay = elapsedSeconds % 60;
-				long elapsedMinutes = elapsedSeconds / 60;
 				out.printf("<pre><font color='green'><font size='10'>Elapsed Time:  " + elapsedTime + "</font></font></pre>");
 				out.printf("<pre><font color='green'><font size='10'>Number of searches:  "  + numberofsearches + "</font></font></pre>");
 			}
@@ -298,7 +289,7 @@ public class WebCrawlPartialSearch {
 				return;
 			}
 			System.out.println("Temp   " + temp);
-			Map<String, String> cookies = getCookieMap(request);
+			getCookieMap(request);
 			out.println("<body style='background-color:#0C090A'>");
 			out.printf("<p style='color:green'>");
 			out.printf(History());

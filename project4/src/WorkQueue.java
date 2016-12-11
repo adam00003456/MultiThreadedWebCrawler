@@ -1,14 +1,17 @@
 import java.util.LinkedList;
 
-import org.apache.log4j.Level;
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+
 /**
  * A simple work queue implementation based on the IBM developerWorks article
  * by Brian Goetz.
  *
  * @see <a href="http://www.ibm.com/developerworks/library/j-jtp0730/index.html">Java Theory and Practice: Thread Pools and Work Queues</a>
  */
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+
 
 public class WorkQueue {
 	public static final Logger logger = LogManager.getLogger(WorkQueue.class.getName());

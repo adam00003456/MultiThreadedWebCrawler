@@ -1,6 +1,4 @@
 import java.util.ArrayList;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /*
  * This class does not take a particularly efficient approach, but this
