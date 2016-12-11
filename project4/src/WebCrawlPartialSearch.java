@@ -10,7 +10,6 @@ import java.util.Calendar;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
-import java.util.Map;
 import java.sql.Timestamp;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -23,10 +22,7 @@ import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
 
-//TODO
-//Links are clickable...when they come up..everytime you type in a
-// queryword, just show the
-// results for that word, better name for search
+
 
 /**
  * 
@@ -74,9 +70,9 @@ public class WebCrawlPartialSearch {
 		handler.addServletWithMapping(new ServletHolder(new HeaderServlet()),
 				"/home");
 		handler.addServletWithMapping(new ServletHolder(
-				new CookieIndexServlet()), "/cookies");
+				new ResultsServlet()), "/results");
 		handler.addServletWithMapping(new ServletHolder(
-				new CookieConfigServlet()), "/config");
+				new ResultsWipeServlet()), "/config");
 		server.setHandler(handler);
 
 		// Start the server (it is a thread) and wait for it to complete
@@ -96,7 +92,6 @@ public class WebCrawlPartialSearch {
 	public static String multiBuildIndex(String querywordline)
 			throws IOException {
 		logger.debug("1beforeInvertedIndex" +  mi);
-		System.out.println("MULTBUILD HIT " + querywordline);
 		ArrayList<SearchResult> qw;
 		List<String> myname;
 		myname = WordParser.parseText(querywordline);
@@ -116,16 +111,6 @@ public class WebCrawlPartialSearch {
 
 	public LinkedHashMap<String, ArrayList<SearchResult>> getresults() {
 		return WebCrawlPartialSearch.querysearchMap;
-	}
-
-	public static String History() {
-		StringBuffer sb = new StringBuffer();
-		for (String word : cookielist.keySet()) {
-			sb.append(word + "    " + cookielist.get(word));
-			sb.append("\n");
-		}
-		return sb.toString();
-
 	}
 
 	/**
@@ -255,32 +240,28 @@ public class WebCrawlPartialSearch {
 				+ "<input style='color:green' type=\"submit\" value=\"Get the Queryword!\"</center>>"
 				+ "</p>\n%n");
 		out.printf("<h2><center><font style ='font-size:25px'; font face='verdana'>"
-				+ "<a style='color:green' href='http://localhost:8080/cookies'>View Cookies</a>"
+				+ "<a style='color:green' href='http://localhost:8080/results'>View Results</a>"
 				+ "</font></center></font>"
 				+ "</h2>");
 		out.printf("<h2><center><font style ='font-size:25px'; font face='verdana'>"
-				+ "<a style='color:green' href='http://localhost:8080/config'>Delete Cookies</a>"
+				+ "<a style='color:green' href='http://localhost:8080/config'>Delete Results</a>"
 				+ "</font></center></font>"
 				+ "</h2>");
 		out.printf("</form>\n%n");
 	}
 
-	public static void cookieadder(String cookie) {
-		Timestamp currentTimestamp = new java.sql.Timestamp(Calendar
-				.getInstance().getTime().getTime());
-		cookielist.put(cookie, currentTimestamp);
-	}
+	public static class ResultsServlet extends HttpServlet {
 
-	public static class CookieIndexServlet extends CookieBaseServlet {
-
+		
 		@Override
 		protected void doGet(HttpServletRequest request,
 				HttpServletResponse response) throws ServletException,
 				IOException {
 
-			log.info("GET " + request.getRequestURL().toString());
+			//log.info("GET " + request.getRequestURL().toString());
 
-			prepareResponse("Cookies!", response);
+			response.setContentType("text/html");
+			response.setStatus(HttpServletResponse.SC_OK);
 			PrintWriter out = response.getWriter();
 			out.printf("<p>");
 
@@ -288,41 +269,41 @@ public class WebCrawlPartialSearch {
 				response.sendError(HttpServletResponse.SC_NOT_FOUND);
 				return;
 			}
-			System.out.println("Temp   " + temp);
-			getCookieMap(request);
 			out.println("<body style='background-color:#0C090A'>");
 			out.printf("<p style='color:green'>");
-			out.printf(History());
 			for (String word : cookielist.keySet()) {
 				out.printf("<pre><font color='green'><font size='10'>" + word + "    " + cookielist.get(word) +  "</font></font></pre>");
 				out.append("\n");
 			}
 			out.printf("</p>");
-			finishResponse(request, response);
+			response.setStatus(HttpServletResponse.SC_OK);
 
 		}
 	}
+		
+		public static class ResultsWipeServlet extends HttpServlet {
+			@Override
+			protected void doGet(HttpServletRequest request,
+					HttpServletResponse response) throws ServletException,
+					IOException {
 
-	public static class CookieConfigServlet extends CookieBaseServlet {
-		@Override
-		protected void doGet(HttpServletRequest request,
-				HttpServletResponse response) throws ServletException,
-				IOException {
-
-			log.info("GET " + request.getRequestURL().toString());
-			//prepareResponse("Configure", response);
-			response.setContentType("text/html");
-			response.setStatus(HttpServletResponse.SC_OK);
-			PrintWriter out = response.getWriter();
-			out.println("<body style='background-color:#0C090A'>");
-			out.printf("<p style='color:green'>Cookies are cleared.</p>%n");
-			out.printf("%n");
-			cookielist.clear();
-			//finishResponse(request, response);
-			
+				
+				//prepareResponse("Configure", response);
+				response.setContentType("text/html");
+				response.setStatus(HttpServletResponse.SC_OK);
+				PrintWriter out = response.getWriter();
+				out.println("<body style='background-color:#0C090A'>");
+				out.printf("<p style='color:green'>Cookies are cleared.</p>%n");
+				out.printf("%n");
+				cookielist.clear();
+				//finishResponse(request, response);
+				
+			}
+		
 		}
 	
-	}
+
+	
 	
 	
 }
